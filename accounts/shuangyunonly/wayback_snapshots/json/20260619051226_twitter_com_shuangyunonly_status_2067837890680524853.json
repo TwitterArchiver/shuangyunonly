@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067837890680524853",
+    "created_at": "2026-06-19T05:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067837890680524853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LimTongyi84917…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/LimTongyi84917/status/2067836101084246125",
+          "start": 15,
+          "url": "https://t.co/JwnjxTVLPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067837890680524853",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067836101084246125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刀工失敗x，摸摸，記得消毒喵 https://t.co/JwnjxTVLPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067836098387353600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJt-cIboAAmlVn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067837890680524853",
+        "created_at": "2026-06-19T05:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067837890680524853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LimTongyi84917…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/LimTongyi84917/status/2067836101084246125",
+              "start": 15,
+              "url": "https://t.co/JwnjxTVLPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067837890680524853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067836101084246125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刀工失敗x，摸摸，記得消毒喵 https://t.co/JwnjxTVLPQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067836098387353600"
+          ]
+        },
+        "author_id": "1948268170302889984",
+        "conversation_id": "2067836101084246125",
+        "created_at": "2026-06-19T05:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067836101084246125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SK4EBIto6",
+              "end": 35,
+              "expanded_url": "https://x.com/LimTongyi84917/status/2067836101084246125/photo/1",
+              "media_key": "3_2067836098387353600",
+              "start": 12,
+              "url": "https://t.co/8SK4EBIto6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067836101084246125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥切菜可以划到这里。 https://t.co/8SK4EBIto6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 156,
+          "like_count": 5784,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T06:25:42.000Z",
+        "description": "叽里咕噜说什么呢。。我要睡觉了🛏️\n/会发自己唱歌/intp/世界只是一个巨大的乐色桶，大家都只是各种各样的乐色，我也是乐色/不聊任何黄色内容/内容超负面。（不是中国人。只是会中文。）",
+        "id": "1948268170302889984",
+        "name": "非人类",
+        "pinned_tweet_id": "2045141422475706869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036886027353415681/4ysRfabU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 54,
+          "like_count": 43576,
+          "listed_count": 0,
+          "media_count": 2493,
+          "tweet_count": 8531
+        },
+        "url": "",
+        "username": "LimTongyi84917",
+        "verified": false
+      }
+    ]
+  }
+}

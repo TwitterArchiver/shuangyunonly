@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2063742756992987136"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2063738004213276929",
+    "created_at": "2026-06-07T21:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T22:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063742790409023571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OMJGKk3fIX",
+          "end": 36,
+          "expanded_url": "https://x.com/shuangyunonly/status/2063742790409023571/photo/1",
+          "media_key": "16_2063742756992987136",
+          "start": 13,
+          "url": "https://t.co/OMJGKk3fIX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063742790409023571",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063738004213276929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 https://t.co/OMJGKk3fIX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2063742756992987136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKPjGnJaMAAV5QQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKPjGnJaMAAV5QQ.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063742756992987136"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2063738004213276929",
+        "created_at": "2026-06-07T21:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063742790409023571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMJGKk3fIX",
+              "end": 36,
+              "expanded_url": "https://x.com/shuangyunonly/status/2063742790409023571/photo/1",
+              "media_key": "16_2063742756992987136",
+              "start": 13,
+              "url": "https://t.co/OMJGKk3fIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063742790409023571",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063738004213276929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 https://t.co/OMJGKk3fIX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2063738004213276929",
+        "created_at": "2026-06-07T21:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063738004213276929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063738004213276929",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅ーーー😭ーーー😅 　\n／｜　　／｜　　    ／｜ \n😭ーーー😅ーーー😭  ｜ \n｜　｜　 ｜　｜　   ｜　  ｜ \n｜　😭ー｜ー😅ー｜ー😭 \n｜／｜　 ｜／｜   　｜／｜ \n😅ーーー😭ーーー😅 ｜ \n｜　｜　 ｜　｜   　｜　｜ \n｜　😅ー｜ー😭ー｜ー😅 \n｜／　　｜／　　    ｜／ \n😭ーーー😅ーーー😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 758,
+          "like_count": 1765,
+          "listed_count": 2,
+          "media_count": 1634,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

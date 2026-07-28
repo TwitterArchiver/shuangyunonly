@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2062934972064051288",
+    "created_at": "2026-06-05T16:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062940438622089405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062940438622089405",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062934972064051288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 喵喵喵🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062934962551369730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEEayWbsAIARSL.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2062934972064051288",
+        "created_at": "2026-06-05T16:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062940438622089405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062940438622089405",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062934972064051288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 喵喵喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062934962551369730"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062934972064051288",
+        "created_at": "2026-06-05T16:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062934972064051288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaGqxRQWqk",
+              "end": 45,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2062934972064051288/photo/1",
+              "media_key": "3_2062934962551369730",
+              "start": 22,
+              "url": "https://t.co/vaGqxRQWqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062934972064051288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵\n迟来的 2.5k fo 福利……？ https://t.co/vaGqxRQWqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 95,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 866,
+          "like_count": 24437,
+          "listed_count": 10,
+          "media_count": 1323,
+          "tweet_count": 7366
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

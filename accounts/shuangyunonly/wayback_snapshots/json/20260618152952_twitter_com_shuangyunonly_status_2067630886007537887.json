@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067629178116313517",
+    "created_at": "2026-06-18T15:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067630886007537887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060032916189773824",
+          "start": 0,
+          "username": "WuCanObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067630886007537887",
+    "in_reply_to_user_id": "2060032916189773824",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067629178116313517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WuCanObject 47"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2067629171011190784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGxxrlbgAABLJi.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067629178116313517",
+        "created_at": "2026-06-18T15:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067630886007537887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060032916189773824",
+              "start": 0,
+              "username": "WuCanObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067630886007537887",
+        "in_reply_to_user_id": "2060032916189773824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067629178116313517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuCanObject 47"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067629171011190784"
+          ]
+        },
+        "author_id": "2060032916189773824",
+        "conversation_id": "2067629178116313517",
+        "created_at": "2026-06-18T15:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067629178116313517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s8jOnLHaSB",
+              "end": 37,
+              "expanded_url": "https://x.com/WuCanObject/status/2067629178116313517/photo/1",
+              "media_key": "3_2067629171011190784",
+              "start": 14,
+              "url": "https://t.co/s8jOnLHaSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067629178116313517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有二阶段？来吧问吧awa https://t.co/s8jOnLHaSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 154,
+          "like_count": 5362,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "初次见面之时",
+        "name": "残物",
+        "pinned_tweet_id": "2060755471846527321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060033124416032768/tWh0j9-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 303,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067844713382805504"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067844723784794456",
+    "created_at": "2026-06-19T05:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067844723784794456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "中国三十四省级行政区域制霸标记生成工具",
+          "display_url": "lab.magiconch.com/china-ex/",
+          "end": 23,
+          "expanded_url": "https://lab.magiconch.com/china-ex/",
+          "start": 0,
+          "status": 200,
+          "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+          "unwound_url": "https://lab.magiconch.com/china-ex/",
+          "url": "https://t.co/9TRsnNGyzB"
+        },
+        {
+          "display_url": "pic.x.com/wKNEJ7qk7g",
+          "end": 47,
+          "expanded_url": "https://x.com/shuangyunonly/status/2067844723784794456/photo/1",
+          "media_key": "3_2067844713382805504",
+          "start": 24,
+          "url": "https://t.co/wKNEJ7qk7g"
+        },
+        {
+          "display_url": "x.com/unitedly_37400…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/unitedly_37400/status/2067307730185195686",
+          "start": 48,
+          "url": "https://t.co/i6CP2SnJRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067844723784794456",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067307730185195686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/9TRsnNGyzB https://t.co/wKNEJ7qk7g https://t.co/i6CP2SnJRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2067844713382805504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ1z5faAAAhCz4.jpg",
+        "width": 2268
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067307724048883714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCNbAVa4AIDJ-M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067844713382805504"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067844723784794456",
+        "created_at": "2026-06-19T05:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067844723784794456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国三十四省级行政区域制霸标记生成工具",
+              "display_url": "lab.magiconch.com/china-ex/",
+              "end": 23,
+              "expanded_url": "https://lab.magiconch.com/china-ex/",
+              "start": 0,
+              "status": 200,
+              "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+              "unwound_url": "https://lab.magiconch.com/china-ex/",
+              "url": "https://t.co/9TRsnNGyzB"
+            },
+            {
+              "display_url": "pic.x.com/wKNEJ7qk7g",
+              "end": 47,
+              "expanded_url": "https://x.com/shuangyunonly/status/2067844723784794456/photo/1",
+              "media_key": "3_2067844713382805504",
+              "start": 24,
+              "url": "https://t.co/wKNEJ7qk7g"
+            },
+            {
+              "display_url": "x.com/unitedly_37400…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/unitedly_37400/status/2067307730185195686",
+              "start": 48,
+              "url": "https://t.co/i6CP2SnJRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067844723784794456",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067307730185195686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9TRsnNGyzB https://t.co/wKNEJ7qk7g https://t.co/i6CP2SnJRd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067307724048883714"
+          ]
+        },
+        "author_id": "1688792465292374016",
+        "conversation_id": "2067307730185195686",
+        "created_at": "2026-06-17T18:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:05:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067307660157092048",
+          "2067307730185195686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv4i9V5CVR",
+              "end": 75,
+              "expanded_url": "https://x.com/unitedly_37400/status/2067307730185195686/photo/1",
+              "media_key": "3_2067307724048883714",
+              "start": 52,
+              "url": "https://t.co/mv4i9V5CVR"
+            },
+            {
+              "display_url": "x.com/sakurabaaya514…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/sakurabaaya514/status/2067295475976606030",
+              "start": 76,
+              "url": "https://t.co/xLFLBmMGEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067307730185195686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1668,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067295475976606030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "内地我还真没有去过几次🤔\n住过台湾、深圳，还上过学\n上海去过四次，香港只去过一次\n南京的话有搭高铁去过 https://t.co/mv4i9V5CVR https://t.co/xLFLBmMGEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 157,
+          "like_count": 5831,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰but大阪メトロ跟我半毛钱关系没有就是🤡｜（以前的）名字看着像假账号但我懒得改（划掉）终于改名了 ｜🇯🇵 🇺🇦 🏳️‍⚧️👍｜微查成分，不要太极端都会回fo😽😽😽｜小号👉@tsurumi_37400 欢迎关注喵｜@arashi5official｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "arashi5official"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県 草津市",
+        "name": "中井鶴見)⌒★",
+        "pinned_tweet_id": "2067519619708157982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 541,
+          "like_count": 79007,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1578
+        },
+        "url": "",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

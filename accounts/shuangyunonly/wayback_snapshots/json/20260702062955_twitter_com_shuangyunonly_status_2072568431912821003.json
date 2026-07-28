@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2072568431912821003",
+    "created_at": "2026-07-02T06:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072568431912821003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942182848125112320",
+          "start": 3,
+          "username": "chamishh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072568431912821003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072506906586059226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chamishh: 你们每个人给我抱一下我就很幸福了呀🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2072568431912821003",
+        "created_at": "2026-07-02T06:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072568431912821003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942182848125112320",
+              "start": 3,
+              "username": "chamishh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072568431912821003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072506906586059226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chamishh: 你们每个人给我抱一下我就很幸福了呀🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942182848125112320",
+        "conversation_id": "2072506906586059226",
+        "created_at": "2026-07-02T02:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072506906586059226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072506906586059226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们每个人给我抱一下我就很幸福了呀🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点\nhttps://t.co/IFxDYNas2e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shuangyun514",
+                "end": 157,
+                "expanded_url": "http://t.me/shuangyun514",
+                "start": 134,
+                "url": "https://t.co/IFxDYNas2e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072385847866081280/WA9PxFn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 177,
+          "like_count": 8619,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T11:24:21.000Z",
+        "description": "09|高二|请假中|目前算是重度宅|重抑重焦|xnn？|双性恋？|社恐|善良|真诚善待每一个好人|憧憬和平|渴望陪伴|求互fo",
+        "id": "1942182848125112320",
+        "name": "chamishh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062039512298225664/JfQKqE2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 64,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "chamishh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067792969537863680"
+      ],
+      "media_source_tweet_id": [
+        "2067792971450450237"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067793537266274582",
+    "created_at": "2026-06-19T02:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067793537266274582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "87586612",
+          "start": 3,
+          "username": "beatmario"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72oDECxkfT",
+          "end": 50,
+          "expanded_url": "https://x.com/beatmario/status/2067792971450450237/photo/1",
+          "media_key": "3_2067792969537863680",
+          "start": 27,
+          "url": "https://t.co/72oDECxkfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067793537266274582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067792971450450237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beatmario: アメリカだよZUNさん https://t.co/72oDECxkfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067792969537863680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJGwApawAA2dDp.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067792969537863680"
+          ],
+          "media_source_tweet_id": [
+            "2067792971450450237"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067793537266274582",
+        "created_at": "2026-06-19T02:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067793537266274582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "87586612",
+              "start": 3,
+              "username": "beatmario"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72oDECxkfT",
+              "end": 50,
+              "expanded_url": "https://x.com/beatmario/status/2067792971450450237/photo/1",
+              "media_key": "3_2067792969537863680",
+              "start": 27,
+              "url": "https://t.co/72oDECxkfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067793537266274582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067792971450450237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beatmario: アメリカだよZUNさん https://t.co/72oDECxkfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067792969537863680"
+          ]
+        },
+        "author_id": "87586612",
+        "conversation_id": "2067792971450450237",
+        "created_at": "2026-06-19T02:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067792971450450237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72oDECxkfT",
+              "end": 35,
+              "expanded_url": "https://x.com/beatmario/status/2067792971450450237/photo/1",
+              "media_key": "3_2067792969537863680",
+              "start": 12,
+              "url": "https://t.co/72oDECxkfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067792971450450237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 204,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "アメリカだよZUNさん https://t.co/72oDECxkfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 155,
+          "like_count": 5619,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-05T01:31:54.000Z",
+        "description": "東方とかVTuberとか💓配信👉#ビートまりお／絵👉#アートまりお／代表作👉ナイト・オブ・ナイツ／最終鬼畜妹フランドール・S／Help me, ERINNNNNN!!／#幻想郷ホロイズム／ウサテイ／シアワセうさぎ／マツヨイナイトバグ／リスペク風神／林檎華憐歌／最強女神†ウーサペコラ／お姉さま♡ラヴコール／など",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "ビートまりお"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "アートまりお"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "tag": "幻想郷ホロイズム"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@beatmario?sub…",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@beatmario?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/vcYQF1PY9L"
+              }
+            ]
+          }
+        },
+        "id": "87586612",
+        "location": "https://cool-create.cc/",
+        "name": "ビートまりお💓",
+        "pinned_tweet_id": "1787050285158056290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284935983738175488/rXfAnxTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236402,
+          "following_count": 830,
+          "like_count": 25580,
+          "listed_count": 1717,
+          "media_count": 9026,
+          "tweet_count": 52127
+        },
+        "url": "https://t.co/vcYQF1PY9L",
+        "username": "beatmario",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "双允喵☄️",
+  "username": "@shuangyunonly",
+  "bio": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly /车万/v家/发现你了/不了解真相绝不发表自己的观点",
+  "location": "site-■■",
+  "link": "https://ngl.link/shuangyunmiaomiao",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 63,
+        "start": 51,
+        "username": "QvQxiaoxiao"
+      },
+      {
+        "end": 106,
+        "start": 94,
+        "username": "nianbaionly"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2074745327593373696/TlupDOBa_normal.jpg"
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068845390917685248"
+      ],
+      "media_source_tweet_id": [
+        "2068845403295109349"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2068882219792556528",
+    "created_at": "2026-06-22T02:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068882219792556528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EaqViXEZ7P",
+          "end": 53,
+          "expanded_url": "https://x.com/Rin1732996/status/2068845403295109349/photo/1",
+          "media_key": "3_2068845390917685248",
+          "start": 30,
+          "url": "https://t.co/EaqViXEZ7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068882219792556528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068845403295109349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: ｢輪郭さえ忘れてしまった｣ https://t.co/EaqViXEZ7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_2068845390917685248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYD6_zaUAA-qUf.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068845390917685248"
+          ],
+          "media_source_tweet_id": [
+            "2068845403295109349"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2068882219792556528",
+        "created_at": "2026-06-22T02:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068882219792556528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaqViXEZ7P",
+              "end": 53,
+              "expanded_url": "https://x.com/Rin1732996/status/2068845403295109349/photo/1",
+              "media_key": "3_2068845390917685248",
+              "start": 30,
+              "url": "https://t.co/EaqViXEZ7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068882219792556528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068845403295109349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: ｢輪郭さえ忘れてしまった｣ https://t.co/EaqViXEZ7P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068845390917685248"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "conversation_id": "2068845403295109349",
+        "created_at": "2026-06-21T23:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068845403295109349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaqViXEZ7P",
+              "end": 37,
+              "expanded_url": "https://x.com/Rin1732996/status/2068845403295109349/photo/1",
+              "media_key": "3_2068845390917685248",
+              "start": 14,
+              "url": "https://t.co/EaqViXEZ7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068845403295109349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1114,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "｢輪郭さえ忘れてしまった｣ https://t.co/EaqViXEZ7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点/选择性情感抑制剂，针对性调整",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 166,
+          "like_count": 7080,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "趣味でAIイラストを載せてるただの病み散らかしてる人。│H▶八朔さん  @tiksca2299 │弟子▶ふじ○さん  @fujimaru_niji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "fujimaru_niji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/RkWva4KWVT"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "-143",
+        "name": "Rin_981",
+        "pinned_tweet_id": "2065637230933340434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027176610399657984/Ha8W8WFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62900,
+          "following_count": 271,
+          "like_count": 117841,
+          "listed_count": 225,
+          "media_count": 3922,
+          "tweet_count": 39022
+        },
+        "url": "https://t.co/RkWva4KWVT",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

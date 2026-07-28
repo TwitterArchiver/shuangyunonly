@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2074181168338243780",
+    "created_at": "2026-07-06T17:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074181168338243780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074181168338243780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074165623349985637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @DrilL019: 突发：约从昨夜起，大量账号收到了来自不同受认证新账号的premium+礼物赠送，我的朋友shellwen亦受影响。\n\n目前尚不明确此事件的后续影响。这不一定是好事，各位同仁请务必保持安全意识，不论如何保护好自己的账号财产和信息安全。 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074165614328119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqowdbgAA4Lrb.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074165614332248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqoweagAAdmsk.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074165614332329985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjqowebwAEbaE7.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2074181168338243780",
+        "created_at": "2026-07-06T17:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074181168338243780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074181168338243780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074165623349985637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @DrilL019: 突发：约从昨夜起，大量账号收到了来自不同受认证新账号的premium+礼物赠送，我的朋友shellwen亦受影响。\n\n目前尚不明确此事件的后续影响。这不一定是好事，各位同仁请务必保持安全意识，不论如何保护好自己的账号财产和信息安全。 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074165614328119296",
+            "3_2074165614332248064",
+            "3_2074165614332329985"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2074165623349985637",
+        "created_at": "2026-07-06T16:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074165623349985637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvSDqWydSo",
+              "end": 140,
+              "expanded_url": "https://x.com/DrilL019/status/2074165623349985637/photo/1",
+              "media_key": "3_2074165614328119296",
+              "start": 117,
+              "url": "https://t.co/IvSDqWydSo"
+            },
+            {
+              "display_url": "pic.x.com/IvSDqWydSo",
+              "end": 140,
+              "expanded_url": "https://x.com/DrilL019/status/2074165623349985637/photo/1",
+              "media_key": "3_2074165614332248064",
+              "start": 117,
+              "url": "https://t.co/IvSDqWydSo"
+            },
+            {
+              "display_url": "pic.x.com/IvSDqWydSo",
+              "end": 140,
+              "expanded_url": "https://x.com/DrilL019/status/2074165623349985637/photo/1",
+              "media_key": "3_2074165614332329985",
+              "start": 117,
+              "url": "https://t.co/IvSDqWydSo"
+            },
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/neko0202002/status/2074118670541021485",
+              "start": 141,
+              "url": "https://t.co/V4G4MPpVhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074165623349985637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 572,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074118670541021485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "突发：约从昨夜起，大量账号收到了来自不同受认证新账号的premium+礼物赠送，我的朋友shellwen亦受影响。\n\n目前尚不明确此事件的后续影响。这不一定是好事，各位同仁请务必保持安全意识，不论如何保护好自己的账号财产和信息安全。 https://t.co/IvSDqWydSo https://t.co/V4G4MPpVhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点\nhttps://t.co/IFxDYNas2e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shuangyun514",
+                "end": 157,
+                "expanded_url": "http://t.me/shuangyun514",
+                "start": 134,
+                "url": "https://t.co/IFxDYNas2e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072757215401021440/HW8s8CdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 195,
+          "like_count": 9761,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 1281,
+          "like_count": 20273,
+          "listed_count": 1,
+          "media_count": 938,
+          "tweet_count": 6458
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

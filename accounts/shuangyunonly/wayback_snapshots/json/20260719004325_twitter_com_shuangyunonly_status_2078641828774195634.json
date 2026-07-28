@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2078641828774195634",
+    "created_at": "2026-07-19T00:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078641828774195634"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078641828774195634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报：我ghostban解除了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2078641828774195634",
+        "created_at": "2026-07-19T00:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078641828774195634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078641828774195634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：我ghostban解除了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点\nhttps://t.co/IFxDYNas2e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shuangyun514",
+                "end": 157,
+                "expanded_url": "http://t.me/shuangyun514",
+                "start": 134,
+                "url": "https://t.co/IFxDYNas2e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074745327593373696/TlupDOBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 204,
+          "like_count": 11678,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      }
+    ]
+  }
+}

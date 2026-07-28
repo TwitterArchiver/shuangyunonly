@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066055634194436097"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2066052603973386240",
+    "created_at": "2026-06-14T07:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066055639315681332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1280075700851011589",
+          "start": 0,
+          "username": "OvO332233"
+        },
+        {
+          "end": 22,
+          "id": "2010816143846768640",
+          "start": 11,
+          "username": "luo_240110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t3XPxQyXdJ",
+          "end": 46,
+          "expanded_url": "https://x.com/shuangyunonly/status/2066055639315681332/photo/1",
+          "media_key": "16_2066055634194436097",
+          "start": 23,
+          "url": "https://t.co/t3XPxQyXdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066055639315681332",
+    "in_reply_to_user_id": "1280075700851011589",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066052603973386240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO332233 @luo_240110 https://t.co/t3XPxQyXdJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "16_2066055634194436097",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKwapyJakAEGl4f.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKwapyJakAEGl4f.mp4"
+          }
+        ],
+        "width": 200
+      },
+      {
+        "height": 422,
+        "media_key": "3_2066052600630501376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwX5NPaYAA-_NT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066055634194436097"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2066052603973386240",
+        "created_at": "2026-06-14T07:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066055639315681332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1280075700851011589",
+              "start": 0,
+              "username": "OvO332233"
+            },
+            {
+              "end": 22,
+              "id": "2010816143846768640",
+              "start": 11,
+              "username": "luo_240110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3XPxQyXdJ",
+              "end": 46,
+              "expanded_url": "https://x.com/shuangyunonly/status/2066055639315681332/photo/1",
+              "media_key": "16_2066055634194436097",
+              "start": 23,
+              "url": "https://t.co/t3XPxQyXdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066055639315681332",
+        "in_reply_to_user_id": "1280075700851011589",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066052603973386240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO332233 @luo_240110 https://t.co/t3XPxQyXdJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066052600630501376"
+          ]
+        },
+        "author_id": "1280075700851011589",
+        "conversation_id": "2066052603973386240",
+        "created_at": "2026-06-14T06:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066052603973386240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2010816143846768640",
+              "start": 13,
+              "username": "luo_240110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whja6D4Szh",
+              "end": 48,
+              "expanded_url": "https://x.com/OvO332233/status/2066052603973386240/photo/1",
+              "media_key": "3_2066052600630501376",
+              "start": 25,
+              "url": "https://t.co/whja6D4Szh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066052603973386240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你答应过我的，我相信你…\n@luo_240110 https://t.co/whja6D4Szh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 131,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！\n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n很希望好好活下来的人：小柒，燏，森森，17……还有好多\n你们要好好的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 226,
+          "like_count": 16273,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1993
+        },
+        "username": "OvO332233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目｜互fo寻回\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350\n*互fo请私信谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "qi_bu64350"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 314,
+          "like_count": 552,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2060732203978657792"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2060657618629300656",
+    "created_at": "2026-05-30T14:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060732222798537029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4WV2uNOhbG",
+          "end": 39,
+          "expanded_url": "https://x.com/shuangyunonly/status/2060732222798537029/photo/1",
+          "media_key": "16_2060732203978657792",
+          "start": 16,
+          "url": "https://t.co/4WV2uNOhbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060732222798537029",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060657618629300656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen https://t.co/4WV2uNOhbG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2060732203978657792",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJkxBXNbEAAFMmA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJkxBXNbEAAFMmA.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1466,
+        "media_key": "3_2060657609833914368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjtLaXbIAAWryD.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2060732203978657792"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2060657618629300656",
+        "created_at": "2026-05-30T14:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060732222798537029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WV2uNOhbG",
+              "end": 39,
+              "expanded_url": "https://x.com/shuangyunonly/status/2060732222798537029/photo/1",
+              "media_key": "16_2060732203978657792",
+              "start": 16,
+              "url": "https://t.co/4WV2uNOhbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060732222798537029",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060657618629300656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/4WV2uNOhbG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060657609833914368"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060657618629300656",
+        "created_at": "2026-05-30T09:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060657618629300656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEkxbmgPz0",
+              "end": 168,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060657618629300656/photo/1",
+              "media_key": "3_2060657609833914368",
+              "start": 145,
+              "url": "https://t.co/LEkxbmgPz0"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2060289272029368392",
+              "start": 169,
+              "url": "https://t.co/NwLs1N15CX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060657618629300656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "根据投票结果，環状線非必要不会把推文的一部分内容放在评论区中，而是尽量在主题推文将自己的内容完整呈现。\n\n例外：若有外链，環状線会将其放在评论区；文章字数超过主题推文 25k 字符限制。\n\n投票完毕后，環状線进行了一些思考：一个创作者为了搏取互动量，而将一部分内容放在评论区的行为真的正确 吗？\n\n環状線想了想，最终还是认为不正确。互动量应当是凭创作者自身实力挣来的，「将一部分内容放在评论区」本质上是投机取巧的行为。而且，一旦读者发现被隐藏在评论区的内容的实际价值没有主题推文说的那么大的话，读者会有「上当受骗」之感，从而对创作者失去信任。\n\n短期来看，「将一部分内容放在评论区」会使環状線的互动率大幅提高，但是对于環状線的长期运营而言是不利的。因此，環状線放弃了这种想法。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 895,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060289272029368392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据投票结果，環状線非必要不会把推文的一部分内容放在评论区中，而是尽量在主题推文将自己的内容完整呈现。\n\n例外：若有外链，環状線会将其放在评论区；文章字数超过主题推文 25k 字符限制。\n\n投票完毕后，環状線进行了一些思考：一个创作者为了搏取互动量，而将一部分内容放在评论区的行为真的正确 https://t.co/LEkxbmgPz0 https://t.co/NwLs1N15CX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057878272898461696/QCRSW2gP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 71,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 869,
+          "like_count": 23377,
+          "listed_count": 11,
+          "media_count": 1243,
+          "tweet_count": 6963
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

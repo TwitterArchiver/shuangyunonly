@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067392820399456613",
+    "created_at": "2026-06-18T01:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067423633119875326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067423633119875326",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067392820399456613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 ruarua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067392781992198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDayB3aAAA0rVg.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067392820399456613",
+        "created_at": "2026-06-18T01:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067423633119875326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067423633119875326",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067392820399456613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 ruarua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067392781992198144"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2067392820399456613",
+        "created_at": "2026-06-17T23:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067392820399456613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrdKZrVddg",
+              "end": 38,
+              "expanded_url": "https://x.com/xian_zi17640/status/2067392820399456613/photo/1",
+              "media_key": "3_2067392781992198144",
+              "start": 15,
+              "url": "https://t.co/JrdKZrVddg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067392820399456613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学的路都快淹完了不带停课的 https://t.co/JrdKZrVddg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 149,
+          "like_count": 5145,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "找咪交朋友好不好咪的tg链接在这了喵https://t.co/vlsV6eBXq3\nhttps://t.co/Qntfz9TM3m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 41,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 18,
+                "url": "https://t.co/vlsV6eBXq3"
+              },
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 65,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 42,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 418,
+          "like_count": 2708,
+          "listed_count": 0,
+          "media_count": 865,
+          "tweet_count": 2804
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

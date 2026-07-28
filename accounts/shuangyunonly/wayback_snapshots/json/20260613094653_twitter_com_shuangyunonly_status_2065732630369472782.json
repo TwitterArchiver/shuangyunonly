@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065732623620804609"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2065694494062743739",
+    "created_at": "2026-06-13T09:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065732630369472782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6AUf8s268",
+          "end": 44,
+          "expanded_url": "https://x.com/shuangyunonly/status/2065732630369472782/photo/1",
+          "media_key": "3_2065732623620804609",
+          "start": 21,
+          "url": "https://t.co/T6AUf8s268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065732630369472782",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065694494062743739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 喵喵喵 https://t.co/T6AUf8s268"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2065732623620804609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr04F_akAEM0d0.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2065694488622682115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrSMWDWUAMGnyd.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065732623620804609"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2065694494062743739",
+        "created_at": "2026-06-13T09:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065732630369472782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6AUf8s268",
+              "end": 44,
+              "expanded_url": "https://x.com/shuangyunonly/status/2065732630369472782/photo/1",
+              "media_key": "3_2065732623620804609",
+              "start": 21,
+              "url": "https://t.co/T6AUf8s268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065732630369472782",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065694494062743739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 喵喵喵 https://t.co/T6AUf8s268"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065694488622682115"
+          ]
+        },
+        "author_id": "1755494652889661440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065694494062743739",
+        "created_at": "2026-06-13T07:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065694494062743739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/eoQ8XZQUsU"
+            },
+            {
+              "display_url": "pic.x.com/Y0mbEx3P5e",
+              "end": 64,
+              "expanded_url": "https://x.com/Victor_zhang233/status/2065694494062743739/photo/1",
+              "media_key": "3_2065694488622682115",
+              "start": 41,
+              "url": "https://t.co/Y0mbEx3P5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065694494062743739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/eoQ8XZQUsU https://t.co/Y0mbEx3P5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 129,
+          "like_count": 3167,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 321,
+          "like_count": 6630,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

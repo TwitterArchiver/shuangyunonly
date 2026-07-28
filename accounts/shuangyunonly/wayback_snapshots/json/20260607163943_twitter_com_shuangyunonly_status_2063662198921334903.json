@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063662196119543808"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2063662198921334903",
+    "created_at": "2026-06-07T16:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063662198921334903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1690146503158108163",
+          "start": 3,
+          "username": "shuangyunonly"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 56,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/R0qmhxwp9D"
+        },
+        {
+          "display_url": "pic.x.com/czd3ZRBG3g",
+          "end": 80,
+          "expanded_url": "https://x.com/shuangyunonly/status/2063662198921334903/photo/1",
+          "media_key": "3_2063662196119543808",
+          "start": 57,
+          "url": "https://t.co/czd3ZRBG3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063662198921334903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @shuangyunonly 的爱兼容性为 60%\n\n➡️ https://t.co/R0qmhxwp9D https://t.co/czd3ZRBG3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2063662196119543808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOZ1WgboAA35nJ.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063662196119543808"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2063662198921334903",
+        "created_at": "2026-06-07T16:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063662198921334903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1690146503158108163",
+              "start": 3,
+              "username": "shuangyunonly"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 56,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/R0qmhxwp9D"
+            },
+            {
+              "display_url": "pic.x.com/czd3ZRBG3g",
+              "end": 80,
+              "expanded_url": "https://x.com/shuangyunonly/status/2063662198921334903/photo/1",
+              "media_key": "3_2063662196119543808",
+              "start": 57,
+              "url": "https://t.co/czd3ZRBG3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063662198921334903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @shuangyunonly 的爱兼容性为 60%\n\n➡️ https://t.co/R0qmhxwp9D https://t.co/czd3ZRBG3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      }
+    ]
+  }
+}

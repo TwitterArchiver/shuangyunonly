@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067382882906292543",
+    "created_at": "2026-06-18T01:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067423978365542436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1280075700851011589",
+          "start": 0,
+          "username": "OvO332233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067423978365542436",
+    "in_reply_to_user_id": "1280075700851011589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067382882906292543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO332233 关注taffy喵，关注taffy谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067382882906292543",
+        "created_at": "2026-06-18T01:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067423978365542436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1280075700851011589",
+              "start": 0,
+              "username": "OvO332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067423978365542436",
+        "in_reply_to_user_id": "1280075700851011589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067382882906292543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO332233 关注taffy喵，关注taffy谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2067382882906292543",
+        "created_at": "2026-06-17T23:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067382882906292543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2067279073379008729",
+              "start": 27,
+              "url": "https://t.co/4x5JPxHp6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067382882906292543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067279073379008729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我是……是谁来着，不管了，关注taffy谢谢喵 https://t.co/4x5JPxHp6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 149,
+          "like_count": 5147,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！\n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n很希望好好活下来的人：小柒，燏，森森，17……还有好多\n你们要好好的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 233,
+          "like_count": 17278,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2028
+        },
+        "username": "OvO332233",
+        "verified": false
+      }
+    ]
+  }
+}

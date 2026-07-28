@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2079795123940884655",
+    "created_at": "2026-07-22T05:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079797195226874328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952269546079055873",
+          "start": 0,
+          "username": "XinQAQwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079797195226874328",
+    "in_reply_to_user_id": "1952269546079055873",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079795123940884655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinQAQwww 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2079795123940884655",
+        "created_at": "2026-07-22T05:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079797195226874328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952269546079055873",
+              "start": 0,
+              "username": "XinQAQwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079797195226874328",
+        "in_reply_to_user_id": "1952269546079055873",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079795123940884655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinQAQwww 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952269546079055873",
+        "conversation_id": "2079795123940884655",
+        "created_at": "2026-07-22T05:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079795123940884655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079795123940884655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人爱我\n那我就当神成神\n \n第一步\n停止分享欲\n\n成神第二步\n \n学会一个人\n\n成神第三步\n \n对没有必要的人说嗯\n \n成神第四步\n \n不再幻想没有结果的事\n \n成神第五步\n \n停止对处有利益的其他人好\n \n成神第六步\n \n不再向其他人宣泄情绪\n \n成神最后一步\n \n不再同情任何人\n \n从此冷漠通透\n \n无爱无恨\n自成神明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074745327593373696/TlupDOBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 205,
+          "like_count": 12146,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T07:25:22.000Z",
+        "description": "霜桦的小屋🏠|喵喵喵喵喵|炸柜💥|半断糖🍥|自残（划掉）|不od|喝酒|喜欢雨天🌧️|想去杭州🌳|互fo🥺|\n小号@XinQAQw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "XinQAQw"
+              }
+            ]
+          }
+        },
+        "id": "1952269546079055873",
+        "name": "XinQAQ🍥",
+        "pinned_tweet_id": "2076641223503192445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077334186419970048/lw6iz9un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 404,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "XinQAQwww",
+        "verified": false
+      }
+    ]
+  }
+}

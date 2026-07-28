@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067655238388170918",
+    "created_at": "2026-06-18T17:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067656542900682884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044796233508605952",
+          "start": 0,
+          "username": "yue_li0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067656542900682884",
+    "in_reply_to_user_id": "2044796233508605952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067655238388170918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li0712 🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067655238388170918",
+        "created_at": "2026-06-18T17:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067656542900682884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044796233508605952",
+              "start": 0,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067656542900682884",
+        "in_reply_to_user_id": "2044796233508605952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067655238388170918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li0712 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796233508605952",
+        "conversation_id": "2067655238388170918",
+        "created_at": "2026-06-18T17:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067655238388170918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067655238388170918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头疼死了，感觉自己要成自恨跨了，自己给自己扭转了可还行，活成自己最讨厌的人说是😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 155,
+          "like_count": 5476,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜同类互fo喵",
+        "id": "2044796233508605952",
+        "name": "曦玥玥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 84,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068508141453819905"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2068473757996548511",
+    "created_at": "2026-06-21T01:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068508209778942183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979068278673981440",
+          "start": 0,
+          "username": "orange219695619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vl1W2ATqAJ",
+          "end": 44,
+          "expanded_url": "https://x.com/shuangyunonly/status/2068508209778942183/photo/1",
+          "media_key": "16_2068508141453819905",
+          "start": 21,
+          "url": "https://t.co/vl1W2ATqAJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068508209778942183",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068473757996548511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange219695619 喵☄️ https://t.co/vl1W2ATqAJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2068508141453819905",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLTRMfpbwAEimkW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLTRMfpbwAEimkW.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068508141453819905"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2068473757996548511",
+        "created_at": "2026-06-21T01:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068508209778942183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vl1W2ATqAJ",
+              "end": 44,
+              "expanded_url": "https://x.com/shuangyunonly/status/2068508209778942183/photo/1",
+              "media_key": "16_2068508141453819905",
+              "start": 21,
+              "url": "https://t.co/vl1W2ATqAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068508209778942183",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068473757996548511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 喵☄️ https://t.co/vl1W2ATqAJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068473757996548511",
+        "created_at": "2026-06-20T23:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068473757996548511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/orange219695619/status/2068437376926617729",
+              "start": 38,
+              "url": "https://t.co/kongbKEuD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068473757996548511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068437376926617729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醒了\n坏消息，割痕被发现了\n好消息，我妈以为是猫挠的（）\n骂了猫猫一顿（） https://t.co/kongbKEuD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点/选择性情感抑制剂，针对性调整",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 163,
+          "like_count": 6668,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 197,
+          "like_count": 11324,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 6853
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

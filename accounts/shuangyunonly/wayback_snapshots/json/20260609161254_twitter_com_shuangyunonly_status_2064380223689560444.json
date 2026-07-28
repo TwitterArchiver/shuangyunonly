@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2064380218819923968"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2064374126211702904",
+    "created_at": "2026-06-09T16:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064380223689560444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1280075700851011589",
+          "start": 0,
+          "username": "OvO332233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GVWNKN8N3Q",
+          "end": 41,
+          "expanded_url": "https://x.com/shuangyunonly/status/2064380223689560444/photo/1",
+          "media_key": "16_2064380218819923968",
+          "start": 18,
+          "url": "https://t.co/GVWNKN8N3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064380223689560444",
+    "in_reply_to_user_id": "1280075700851011589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064374126211702904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO332233 照顾好自己喵 https://t.co/GVWNKN8N3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "16_2064380218819923968",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKYm3xga0AAdOQ9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKYm3xga0AAdOQ9.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064380218819923968"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2064374126211702904",
+        "created_at": "2026-06-09T16:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064380223689560444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1280075700851011589",
+              "start": 0,
+              "username": "OvO332233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVWNKN8N3Q",
+              "end": 41,
+              "expanded_url": "https://x.com/shuangyunonly/status/2064380223689560444/photo/1",
+              "media_key": "16_2064380218819923968",
+              "start": 18,
+              "url": "https://t.co/GVWNKN8N3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064380223689560444",
+        "in_reply_to_user_id": "1280075700851011589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064374126211702904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO332233 照顾好自己喵 https://t.co/GVWNKN8N3Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2064374126211702904",
+        "created_at": "2026-06-09T15:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064374126211702904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064374126211702904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我能变厉害呢\n到大家的身边，随叫随到的陪着大家\n给大家爱与陪伴\n\n嗯…这几天可能精神不太好了，能看到一些不存在的东西，好怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 110,
+          "like_count": 1906,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！\n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n很希望好好活下来的人：小柒，燏，森森，17……还有好多\n你们要好好的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 214,
+          "like_count": 14361,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1875
+        },
+        "username": "OvO332233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067459044215005184"
+      ],
+      "media_source_tweet_id": [
+        "2067461461191053325"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067839340718571911",
+    "created_at": "2026-06-19T05:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067839340718571911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqQn78ZabJ",
+          "end": 92,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2067461461191053325/photo/1",
+          "media_key": "3_2067459044215005184",
+          "start": 69,
+          "url": "https://t.co/mqQn78ZabJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067839340718571911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067461461191053325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 很多人觉得中式恐怖是突兀的元素 如恐怖环境中有中国结 对联等喜庆元素 但是我感觉这才知真正的中式恐怖 https://t.co/mqQn78ZabJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_2067459044215005184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEXC_4aoAAOU7w.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067459044215005184"
+          ],
+          "media_source_tweet_id": [
+            "2067461461191053325"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067839340718571911",
+        "created_at": "2026-06-19T05:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067839340718571911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqQn78ZabJ",
+              "end": 92,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2067461461191053325/photo/1",
+              "media_key": "3_2067459044215005184",
+              "start": 69,
+              "url": "https://t.co/mqQn78ZabJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067839340718571911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067461461191053325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 很多人觉得中式恐怖是突兀的元素 如恐怖环境中有中国结 对联等喜庆元素 但是我感觉这才知真正的中式恐怖 https://t.co/mqQn78ZabJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067459044215005184"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2067461461191053325",
+        "created_at": "2026-06-18T04:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067461461191053325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqQn78ZabJ",
+              "end": 74,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2067461461191053325/photo/1",
+              "media_key": "3_2067459044215005184",
+              "start": 51,
+              "url": "https://t.co/mqQn78ZabJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067461461191053325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4513,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "很多人觉得中式恐怖是突兀的元素 如恐怖环境中有中国结 对联等喜庆元素 但是我感觉这才知真正的中式恐怖 https://t.co/mqQn78ZabJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 156,
+          "like_count": 5801,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5634,
+          "following_count": 1900,
+          "like_count": 64820,
+          "listed_count": 10,
+          "media_count": 1523,
+          "tweet_count": 11888
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

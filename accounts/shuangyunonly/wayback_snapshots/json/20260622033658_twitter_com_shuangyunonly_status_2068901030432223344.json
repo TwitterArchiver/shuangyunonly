@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2068901030432223344",
+    "created_at": "2026-06-22T03:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068901030432223344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062562367368835072",
+          "start": 3,
+          "username": "nianbaionly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068901030432223344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068900508723753248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nianbaionly: 自己的生活么，朋友就是允的生活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2068901030432223344",
+        "created_at": "2026-06-22T03:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068901030432223344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062562367368835072",
+              "start": 3,
+              "username": "nianbaionly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068901030432223344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068900508723753248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nianbaionly: 自己的生活么，朋友就是允的生活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062562367368835072",
+        "conversation_id": "2068900508723753248",
+        "created_at": "2026-06-22T03:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068900508723753248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaonvbing/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/shaonvbing/status/2068340379363979769",
+              "start": 17,
+              "url": "https://t.co/dZB1PkmOet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068900508723753248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068340379363979769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己的生活么，朋友就是允的生活了 https://t.co/dZB1PkmOet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点/选择性情感抑制剂，针对性调整",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 166,
+          "like_count": 7135,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:50:13.000Z",
+        "description": "双允二号机，好玩喵\n@shuangyunonly\n但我知道我是我，我是廿白",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "shuangyunonly"
+              }
+            ]
+          }
+        },
+        "id": "2062562367368835072",
+        "location": "从不存在的世界里",
+        "name": "廿白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062563046351093760/DoUM_2Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 32,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "nianbaionly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2066423274104603111",
+    "created_at": "2026-06-15T07:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066423274104603111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1280075700851011589",
+          "start": 3,
+          "username": "OvO332233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066423274104603111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066415931174318245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvO332233: 我是泛性恋，请看到这个帖子的都与我结婚！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2066423274104603111",
+        "created_at": "2026-06-15T07:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066423274104603111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1280075700851011589",
+              "start": 3,
+              "username": "OvO332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066423274104603111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066415931174318245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvO332233: 我是泛性恋，请看到这个帖子的都与我结婚！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2066415931174318245",
+        "created_at": "2026-06-15T07:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066415931174318245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/10Lystra/status/2066167073131163831",
+              "start": 21,
+              "url": "https://t.co/jZbD7BYsjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066415931174318245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066167073131163831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是泛性恋，请看到这个帖子的都与我结婚！ https://t.co/jZbD7BYsjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了\n抑制阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 132,
+          "like_count": 3814,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！\n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n很希望好好活下来的人：小柒，燏，森森，17……还有好多\n你们要好好的！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 230,
+          "like_count": 16720,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 2009
+        },
+        "username": "OvO332233",
+        "verified": false
+      }
+    ]
+  }
+}

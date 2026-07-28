@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2067100143762182144"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067091599042269483",
+    "created_at": "2026-06-17T04:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067100147889422835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804875241367433216",
+          "start": 0,
+          "username": "aberyoheiskm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dbGVHT3rme",
+          "end": 37,
+          "expanded_url": "https://x.com/shuangyunonly/status/2067100147889422835/photo/1",
+          "media_key": "16_2067100143762182144",
+          "start": 14,
+          "url": "https://t.co/dbGVHT3rme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067100147889422835",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067091599042269483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiskm https://t.co/dbGVHT3rme"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "16_2067100143762182144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HK_QoPgakAAIgEv.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HK_QoPgakAAIgEv.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067100143762182144"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067091599042269483",
+        "created_at": "2026-06-17T04:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067100147889422835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbGVHT3rme",
+              "end": 37,
+              "expanded_url": "https://x.com/shuangyunonly/status/2067100147889422835/photo/1",
+              "media_key": "16_2067100143762182144",
+              "start": 14,
+              "url": "https://t.co/dbGVHT3rme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067100147889422835",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067091599042269483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm https://t.co/dbGVHT3rme"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2067091599042269483",
+        "created_at": "2026-06-17T03:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067091599042269483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067091599042269483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦极了\n每次吃完右佐第二天就会莫名心慌然后开始吃心得安\n解离干呕接踵而至\n因为自推生日努力拖着身子化妆提着大包小包去推活\n结果还难吃的要死\n本来想着如果科目三过了我状态应该好一点可以回大家消息\n因为痛苦的时候完全阅读困难，脑子里完全连不成词句，脑袋空空抱着手机却不知道回什么的绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/活跃阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 141,
+          "like_count": 4648,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 297,
+          "like_count": 2934,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

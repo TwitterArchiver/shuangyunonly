@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2067103468654075904"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067098132698354083",
+    "created_at": "2026-06-17T04:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067103475209851001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863233896403628033",
+          "start": 0,
+          "username": "dontweepalone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LXX1WaPJum",
+          "end": 38,
+          "expanded_url": "https://x.com/shuangyunonly/status/2067103475209851001/photo/1",
+          "media_key": "16_2067103468654075904",
+          "start": 15,
+          "url": "https://t.co/LXX1WaPJum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067103475209851001",
+    "in_reply_to_user_id": "1863233896403628033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067098132698354083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontweepalone https://t.co/LXX1WaPJum"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "16_2067103468654075904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HK_TpxsaoAAWuKj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HK_TpxsaoAAWuKj.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067103468654075904"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067098132698354083",
+        "created_at": "2026-06-17T04:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067103475209851001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXX1WaPJum",
+              "end": 38,
+              "expanded_url": "https://x.com/shuangyunonly/status/2067103475209851001/photo/1",
+              "media_key": "16_2067103468654075904",
+              "start": 15,
+              "url": "https://t.co/LXX1WaPJum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067103475209851001",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067098132698354083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone https://t.co/LXX1WaPJum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2067098132698354083",
+        "created_at": "2026-06-17T04:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067098132698354083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067098132698354083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健康作息不适合我⋯住院十天前所未有地早睡早起但结果是无比疲惫，黑眼圈重得吓人，眼睛痛，头痛，感官过载，持续整个白天的喧闹。只觉得好累好累。每天吃一堆药但唯一的效果是恶心想吐，一周过去戒断反应依旧没有消失。头痛，放电。为了尽快出院还得装作一切都很好…事实上更加想死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/活跃阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 143,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 179,
+          "like_count": 1884,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 256
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

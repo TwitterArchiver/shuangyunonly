@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074116841187000320"
+      ],
+      "media_source_tweet_id": [
+        "2074116881523581039"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074122338216636831",
+    "created_at": "2026-07-06T13:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074122338216636831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1153430387504373764",
+          "start": 3,
+          "username": "xiangcai_nya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kvsS2dPslm",
+          "end": 44,
+          "expanded_url": "https://x.com/xiangcai_nya/status/2074116881523581039/photo/1",
+          "media_key": "3_2074116841187000320",
+          "start": 21,
+          "url": "https://t.co/kvsS2dPslm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074122338216636831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074116881523581039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangcai_nya: 神秘 https://t.co/kvsS2dPslm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074116841187000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi-RyWbQAA_8bC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074116841187000320"
+          ],
+          "media_source_tweet_id": [
+            "2074116881523581039"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074122338216636831",
+        "created_at": "2026-07-06T13:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074122338216636831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1153430387504373764",
+              "start": 3,
+              "username": "xiangcai_nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvsS2dPslm",
+              "end": 44,
+              "expanded_url": "https://x.com/xiangcai_nya/status/2074116881523581039/photo/1",
+              "media_key": "3_2074116841187000320",
+              "start": 21,
+              "url": "https://t.co/kvsS2dPslm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074122338216636831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074116881523581039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiangcai_nya: 神秘 https://t.co/kvsS2dPslm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074116841187000320"
+          ]
+        },
+        "author_id": "1153430387504373764",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074116881523581039",
+        "created_at": "2026-07-06T13:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074116881523581039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvsS2dPslm",
+              "end": 26,
+              "expanded_url": "https://x.com/xiangcai_nya/status/2074116881523581039/photo/1",
+              "media_key": "3_2074116841187000320",
+              "start": 3,
+              "url": "https://t.co/kvsS2dPslm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074116881523581039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神秘 https://t.co/kvsS2dPslm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点\nhttps://t.co/IFxDYNas2e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shuangyun514",
+                "end": 157,
+                "expanded_url": "http://t.me/shuangyun514",
+                "start": 134,
+                "url": "https://t.co/IFxDYNas2e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072757215401021440/HW8s8CdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 192,
+          "like_count": 9673,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 300,
+          "like_count": 217,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

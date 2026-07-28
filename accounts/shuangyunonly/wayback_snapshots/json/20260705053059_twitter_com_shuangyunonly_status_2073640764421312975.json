@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073640753449021441"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2073501871952805892",
+    "created_at": "2026-07-05T05:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073640764421312975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1942182848125112320",
+          "start": 0,
+          "username": "chamishh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6SYtWdsgF",
+          "end": 35,
+          "expanded_url": "https://x.com/shuangyunonly/status/2073640764421312975/photo/1",
+          "media_key": "16_2073640753449021441",
+          "start": 12,
+          "url": "https://t.co/t6SYtWdsgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073640764421312975",
+    "in_reply_to_user_id": "1942182848125112320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073501871952805892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chamishh 喵 https://t.co/t6SYtWdsgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "16_2073640753449021441",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMcNR1UaMAEHQZg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMcNR1UaMAEHQZg.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073640753449021441"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2073501871952805892",
+        "created_at": "2026-07-05T05:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073640764421312975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1942182848125112320",
+              "start": 0,
+              "username": "chamishh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6SYtWdsgF",
+              "end": 35,
+              "expanded_url": "https://x.com/shuangyunonly/status/2073640764421312975/photo/1",
+              "media_key": "16_2073640753449021441",
+              "start": 12,
+              "url": "https://t.co/t6SYtWdsgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073640764421312975",
+        "in_reply_to_user_id": "1942182848125112320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073501871952805892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chamishh 喵 https://t.co/t6SYtWdsgF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942182848125112320",
+        "conversation_id": "2073501871952805892",
+        "created_at": "2026-07-04T20:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073501871952805892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073501871952805892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我是本质坏蛋有没有懂得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点\nhttps://t.co/IFxDYNas2e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shuangyun514",
+                "end": 157,
+                "expanded_url": "http://t.me/shuangyun514",
+                "start": 134,
+                "url": "https://t.co/IFxDYNas2e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072757215401021440/HW8s8CdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 185,
+          "like_count": 9221,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T11:24:21.000Z",
+        "description": "09|高二|请假中|目前算是重度宅|重抑重焦|xnn？|双性恋？|社恐|善良|真诚善待每一个好人|憧憬和平|渴望陪伴|求互fo",
+        "id": "1942182848125112320",
+        "name": "chamishh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062039512298225664/JfQKqE2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 64,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "chamishh",
+        "verified": false
+      }
+    ]
+  }
+}

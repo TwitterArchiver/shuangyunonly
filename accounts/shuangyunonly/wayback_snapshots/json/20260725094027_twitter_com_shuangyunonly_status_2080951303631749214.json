@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2080951303631749214",
+    "created_at": "2026-07-25T09:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080951303631749214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1859514443362861056",
+          "start": 3,
+          "username": "nami16386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080951303631749214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080945354779042110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nami16386: 碳酸钡好难闻，有点苦。头有一点点晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2080951303631749214",
+        "created_at": "2026-07-25T09:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080951303631749214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1859514443362861056",
+              "start": 3,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080951303631749214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080945354779042110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nami16386: 碳酸钡好难闻，有点苦。头有一点点晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859514443362861056",
+        "conversation_id": "2080945354779042110",
+        "created_at": "2026-07-25T09:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080945354779042110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080945354779042110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "碳酸钡好难闻，有点苦。头有一点点晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074745327593373696/TlupDOBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 212,
+          "like_count": 12446,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁🍥 | MTF \n身高168cm / 50kg  已炸柜  不割手不od  重度焦虑 有时候笨笨的 \nHRT 2026.5.3\n梦想吃好吃的+玩电脑  喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nami16386",
+                "end": 23,
+                "expanded_url": "http://t.me/nami16386",
+                "start": 0,
+                "url": "https://t.co/QNHz2KyDXD"
+              }
+            ]
+          }
+        },
+        "id": "1859514443362861056",
+        "location": "湖北省黄冈市",
+        "name": "nami🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 602,
+          "like_count": 3756,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/QNHz2KyDXD",
+        "username": "nami16386",
+        "verified": false
+      }
+    ]
+  }
+}

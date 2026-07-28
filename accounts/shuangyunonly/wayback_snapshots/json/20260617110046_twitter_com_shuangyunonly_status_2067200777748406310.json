@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067200773847666688",
+        "3_2067200774220959744"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067200777748406310",
+    "created_at": "2026-06-17T11:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067200777748406310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bbb76TfwRQ",
+          "end": 23,
+          "expanded_url": "https://x.com/shuangyunonly/status/2067200777748406310/photo/1",
+          "media_key": "3_2067200773847666688",
+          "start": 0,
+          "url": "https://t.co/Bbb76TfwRQ"
+        },
+        {
+          "display_url": "pic.x.com/Bbb76TfwRQ",
+          "end": 23,
+          "expanded_url": "https://x.com/shuangyunonly/status/2067200777748406310/photo/1",
+          "media_key": "3_2067200774220959744",
+          "start": 0,
+          "url": "https://t.co/Bbb76TfwRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067200777748406310",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Bbb76TfwRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067200773847666688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAsJryaUAARv_M.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067200774220959744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAsJtLaUAAhO4U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067200773847666688",
+            "3_2067200774220959744"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067200777748406310",
+        "created_at": "2026-06-17T11:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067200777748406310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bbb76TfwRQ",
+              "end": 23,
+              "expanded_url": "https://x.com/shuangyunonly/status/2067200777748406310/photo/1",
+              "media_key": "3_2067200773847666688",
+              "start": 0,
+              "url": "https://t.co/Bbb76TfwRQ"
+            },
+            {
+              "display_url": "pic.x.com/Bbb76TfwRQ",
+              "end": 23,
+              "expanded_url": "https://x.com/shuangyunonly/status/2067200777748406310/photo/1",
+              "media_key": "3_2067200774220959744",
+              "start": 0,
+              "url": "https://t.co/Bbb76TfwRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067200777748406310",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Bbb76TfwRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/低落阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 146,
+          "like_count": 4885,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      }
+    ]
+  }
+}

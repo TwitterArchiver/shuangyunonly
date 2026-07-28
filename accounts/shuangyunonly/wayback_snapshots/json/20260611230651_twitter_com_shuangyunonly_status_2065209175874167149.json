@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2065162431710863430",
+    "created_at": "2026-06-11T23:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065209175874167149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811384610749874176",
+          "start": 0,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065209175874167149",
+    "in_reply_to_user_id": "1811384610749874176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065162431710863430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgddking 😨😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_2065162423473238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjuSE6bcAA8GPI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2065162431710863430",
+        "created_at": "2026-06-11T23:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065209175874167149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811384610749874176",
+              "start": 0,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065209175874167149",
+        "in_reply_to_user_id": "1811384610749874176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065162431710863430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgddking 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065162423473238016"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2065162431710863430",
+        "created_at": "2026-06-11T20:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065162431710863430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/koec0IETEx",
+              "end": 36,
+              "expanded_url": "https://x.com/wgddking/status/2065162431710863430/photo/1",
+              "media_key": "3_2065162423473238016",
+              "start": 13,
+              "url": "https://t.co/koec0IETEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065162431710863430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫你他妈把蟑螂给日了 https://t.co/koec0IETEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 125,
+          "like_count": 2672,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n（求警哥别抓我）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（祥压抑）",
+        "pinned_tweet_id": "2064867431143899637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 87,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 2868
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

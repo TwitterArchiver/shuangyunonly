@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063460527460999168",
+        "3_2063460527888842752"
+      ],
+      "media_source_tweet_id": [
+        "2063460537032413419",
+        "2063460537032413419"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2063672823240176061",
+    "created_at": "2026-06-07T17:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063672823240176061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037381870204198912",
+          "start": 3,
+          "username": "980thVGRegiment"
+        },
+        {
+          "end": 39,
+          "id": "1852895432269234176",
+          "start": 23,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRG317Rck0",
+          "end": 108,
+          "expanded_url": "https://x.com/980thVGRegiment/status/2063460537032413419/photo/1",
+          "media_key": "3_2063460527460999168",
+          "start": 85,
+          "url": "https://t.co/xRG317Rck0"
+        },
+        {
+          "display_url": "pic.x.com/xRG317Rck0",
+          "end": 108,
+          "expanded_url": "https://x.com/980thVGRegiment/status/2063460537032413419/photo/1",
+          "media_key": "3_2063460527888842752",
+          "start": 85,
+          "url": "https://t.co/xRG317Rck0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063672823240176061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063460537032413419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @980thVGRegiment: 我是@432Ifantrygroup的小号，大号被奸人所害封锁7天，我已申诉，这段时间将在本号上活跃。\n互关看到帮转一下🙇谢谢 https://t.co/xRG317Rck0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063460527460999168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLiasNaYAAyO-q.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063460527888842752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLiatzawAAoiLm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063460527460999168",
+            "3_2063460527888842752"
+          ],
+          "media_source_tweet_id": [
+            "2063460537032413419",
+            "2063460537032413419"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2063672823240176061",
+        "created_at": "2026-06-07T17:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063672823240176061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037381870204198912",
+              "start": 3,
+              "username": "980thVGRegiment"
+            },
+            {
+              "end": 39,
+              "id": "1852895432269234176",
+              "start": 23,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRG317Rck0",
+              "end": 108,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2063460537032413419/photo/1",
+              "media_key": "3_2063460527460999168",
+              "start": 85,
+              "url": "https://t.co/xRG317Rck0"
+            },
+            {
+              "display_url": "pic.x.com/xRG317Rck0",
+              "end": 108,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2063460537032413419/photo/1",
+              "media_key": "3_2063460527888842752",
+              "start": 85,
+              "url": "https://t.co/xRG317Rck0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063672823240176061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063460537032413419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @980thVGRegiment: 我是@432Ifantrygroup的小号，大号被奸人所害封锁7天，我已申诉，这段时间将在本号上活跃。\n互关看到帮转一下🙇谢谢 https://t.co/xRG317Rck0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063460527460999168",
+            "3_2063460527888842752"
+          ]
+        },
+        "author_id": "2037381870204198912",
+        "conversation_id": "2063460537032413419",
+        "created_at": "2026-06-07T03:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063460537032413419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1852895432269234176",
+              "start": 2,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRG317Rck0",
+              "end": 87,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2063460537032413419/photo/1",
+              "media_key": "3_2063460527460999168",
+              "start": 64,
+              "url": "https://t.co/xRG317Rck0"
+            },
+            {
+              "display_url": "pic.x.com/xRG317Rck0",
+              "end": 87,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2063460537032413419/photo/1",
+              "media_key": "3_2063460527888842752",
+              "start": 64,
+              "url": "https://t.co/xRG317Rck0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063460537032413419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2253,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我是@432Ifantrygroup的小号，大号被奸人所害封锁7天，我已申诉，这段时间将在本号上活跃。\n互关看到帮转一下🙇谢谢 https://t.co/xRG317Rck0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 103,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "东方白小号@432Ifantrygroup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "432Ifantrygroup"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2063615276814569693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 106,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 95
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062961768209756298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 4062,
+          "like_count": 42490,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 11951
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

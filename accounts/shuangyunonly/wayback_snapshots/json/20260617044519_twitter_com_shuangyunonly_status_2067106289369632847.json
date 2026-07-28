@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067104842515096049",
+    "created_at": "2026-06-17T04:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067106289369632847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066503031680827392",
+          "start": 0,
+          "username": "LoveMikuBXbot3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067106289369632847",
+    "in_reply_to_user_id": "2066503031680827392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067104842515096049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBXbot3 还有ggo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2067104831958065152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_U5IZaoAAF9HE.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067104842515096049",
+        "created_at": "2026-06-17T04:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067106289369632847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066503031680827392",
+              "start": 0,
+              "username": "LoveMikuBXbot3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067106289369632847",
+        "in_reply_to_user_id": "2066503031680827392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067104842515096049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBXbot3 还有ggo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067104831958065152"
+          ]
+        },
+        "author_id": "2066503031680827392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067104842515096049",
+        "created_at": "2026-06-17T04:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067104842515096049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjUsq6E5DV",
+              "end": 23,
+              "expanded_url": "https://x.com/LoveMikuBXbot3/status/2067104842515096049/photo/1",
+              "media_key": "3_2067104831958065152",
+              "start": 0,
+              "url": "https://t.co/KjUsq6E5DV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067104842515096049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KjUsq6E5DV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/活跃阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 143,
+          "like_count": 4710,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T12:49:10.000Z",
+        "description": "此账号仅用于梗图搬运，其他内容见主账号@LoveMikuBX，若有侵权请指出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "LoveMikuBX"
+              }
+            ]
+          }
+        },
+        "id": "2066503031680827392",
+        "location": "地球🌏",
+        "name": "伴下bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066731609399902208/9LFxeTuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 28
+        },
+        "username": "LoveMikuBXbot3",
+        "verified": false
+      }
+    ]
+  }
+}

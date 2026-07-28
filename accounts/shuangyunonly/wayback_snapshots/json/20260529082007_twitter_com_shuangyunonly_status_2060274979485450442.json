@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2060274979485450442",
+    "created_at": "2026-05-29T08:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060274979485450442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060274979485450442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1739654642097913900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 我和大多数圈里的救助者有一个不一样的地方在于，我是为了“那么一部分善良的人”去做救助的。所以在绝大多数人遭到恩将仇报后放弃救助的情况下，我仍然会继续，因为我知道恩将仇报的人不是全部，别说5％，就算95％，只要有那么5％我认为值得帮助的那一部分…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2060274979485450442",
+        "created_at": "2026-05-29T08:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060274979485450442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060274979485450442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1739654642097913900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 我和大多数圈里的救助者有一个不一样的地方在于，我是为了“那么一部分善良的人”去做救助的。所以在绝大多数人遭到恩将仇报后放弃救助的情况下，我仍然会继续，因为我知道恩将仇报的人不是全部，别说5％，就算95％，只要有那么5％我认为值得帮助的那一部分…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1739654642097913900",
+        "created_at": "2023-12-26T14:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-26T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1739654642097913900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1739651217880728024",
+              "start": 144,
+              "url": "https://t.co/PrLp7Df74G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1739654642097913900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我和大多数圈里的救助者有一个不一样的地方在于，我是为了“那么一部分善良的人”去做救助的。所以在绝大多数人遭到恩将仇报后放弃救助的情况下，我仍然会继续，因为我知道恩将仇报的人不是全部，别说5％，就算95％，只要有那么5％我认为值得帮助的那一部分人因为得到了我的帮助活下去，我就认为自己做的是值得的。\n某种意义上，我可能会有时感到，我是继承了很多年前，我认识的那些已故的可爱的，善良的人们的遗志，她们闪烁着人性的闪光点，那我想做的，就是去证明她们当初的努力，不是没有意义，没有价值的。\n因为这个世界上存在着她们，和像她们这样的人，所以会有无数走投无路，即将死在出租屋，死在街道上，死在午夜里的人，因为有她们的存在，所以活下来了。当她们自己也陷入深渊的时候，又会有另一个她们，伸出了扶起她们的手。但是却会有这么一群人，在拉住扶起自己的手以后，踩在了扶起自己的人的背上，再次回到了自己的世界里。\n是“这些人”，抛弃了她们，看不见无数的她们，消失在自己的屋檐下，而她们，却从未抛弃过“这些人”。\n“那些人”生活的，绝大多数要比她们生活的更好，好得多，好太多。享受着璀璨的人生，但她们，却无论生在社会的再高层，无论再优秀，再好，她们的人生却总是痛苦的。但也正是这些痛苦，有无数的人因为她们而不再痛苦，有更多的她们，因为她们活了下去，活得更幸福\n童年的时候，我看着书上的那些“英雄”，我那时在想，这个世界上怎么会有这样的人，我们因为这样的人变得更幸福了，他们用自己的痛苦，换来了更多的人不再痛苦，我害怕成为这样所谓的英雄，我不想这么痛苦。但当我认识了很多可爱的人，经历了很多事情，我看见善良的她们付出着“善良的代价”，看着她们因为自己的善良死去，成为自己的墓志铭。而冷漠的人，却总能深居高位，却总能得到更多的东西。好人永远被拿枪指，坏人永远笑到最后。直到我接触了社会学的书籍，知道了一切的原因，但是一切宏观的东西，并不能给当下的人们带来什么，于是我选择让一个个具体的人，得到更多的温柔，就像她们曾经对待世界的温柔。\n愿你，被世界温柔以待，所以我来了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 92342,
+          "like_count": 384,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1739651217880728024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和大多数圈里的救助者有一个不一样的地方在于，我是为了“那么一部分善良的人”去做救助的。所以在绝大多数人遭到恩将仇报后放弃救助的情况下，我仍然会继续，因为我知道恩将仇报的人不是全部，别说5％，就算95％，只要有那么5％我认为值得帮助的那一部分人因为得到了我的帮助活下去，我就认为自己做的 https://t.co/PrLp7Df74G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057878272898461696/QCRSW2gP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 72,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41683,
+          "following_count": 3790,
+          "like_count": 1715,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2925
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

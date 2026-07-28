@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066753165907656704"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2066753169082683572",
+    "created_at": "2026-06-16T05:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066753169082683572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1657031387650699266",
+          "start": 16,
+          "username": "whykoishi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 54,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "start": 31,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/lrAE4QgsiI"
+        },
+        {
+          "display_url": "pic.x.com/f5tV1AYRRA",
+          "end": 78,
+          "expanded_url": "https://x.com/shuangyunonly/status/2066753169082683572/photo/1",
+          "media_key": "3_2066753165907656704",
+          "start": 55,
+          "url": "https://t.co/f5tV1AYRRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066753169082683572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @whykoishi\n\n➡️ https://t.co/lrAE4QgsiI https://t.co/f5tV1AYRRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2066753165907656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6VDeRXAAA_-NN.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066753165907656704"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066753169082683572",
+        "created_at": "2026-06-16T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066753169082683572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1657031387650699266",
+              "start": 16,
+              "username": "whykoishi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 54,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "start": 31,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/lrAE4QgsiI"
+            },
+            {
+              "display_url": "pic.x.com/f5tV1AYRRA",
+              "end": 78,
+              "expanded_url": "https://x.com/shuangyunonly/status/2066753169082683572/photo/1",
+              "media_key": "3_2066753165907656704",
+              "start": 55,
+              "url": "https://t.co/f5tV1AYRRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066753169082683572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @whykoishi\n\n➡️ https://t.co/lrAE4QgsiI https://t.co/f5tV1AYRRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 139,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T14:34:20.000Z",
+        "description": "Dream On....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whykoshi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whykoshi",
+                "start": 0,
+                "url": "https://t.co/TI8SzzXw2b"
+              }
+            ]
+          }
+        },
+        "id": "1657031387650699266",
+        "location": "Louisville, KY",
+        "name": "'39",
+        "pinned_tweet_id": "2064231613458944131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062773021350457344/EPeHoaRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 140,
+          "like_count": 5504,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/TI8SzzXw2b",
+        "username": "whykoishi",
+        "verified": false
+      }
+    ]
+  }
+}

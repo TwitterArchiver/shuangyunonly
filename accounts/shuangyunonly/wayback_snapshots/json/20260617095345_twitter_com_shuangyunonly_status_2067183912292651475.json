@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067181912117174643",
+    "created_at": "2026-06-17T09:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067183912292651475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037381870204198912",
+          "start": 0,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067183912292651475",
+    "in_reply_to_user_id": "2037381870204198912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067181912117174643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@980thVGRegiment 早日康复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067181902872887297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAa_P7awAEywSk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067181912117174643",
+        "created_at": "2026-06-17T09:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067183912292651475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037381870204198912",
+              "start": 0,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067183912292651475",
+        "in_reply_to_user_id": "2037381870204198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067181912117174643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@980thVGRegiment 早日康复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067181902872887297"
+          ]
+        },
+        "author_id": "2037381870204198912",
+        "conversation_id": "2067181912117174643",
+        "created_at": "2026-06-17T09:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067181912117174643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpYfHDRdzO",
+              "end": 40,
+              "expanded_url": "https://x.com/980thVGRegiment/status/2067181912117174643/photo/1",
+              "media_key": "3_2067181902872887297",
+              "start": 17,
+              "url": "https://t.co/DpYfHDRdzO"
+            },
+            {
+              "display_url": "x.com/980thVGRegimen…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/980thVGRegiment/status/2066885143693078644",
+              "start": 41,
+              "url": "https://t.co/hzHOSBxlB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067181912117174643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066885143693078644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前还好，用吸管手搓了个夹板戴着 https://t.co/DpYfHDRdzO https://t.co/hzHOSBxlB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/低落阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 146,
+          "like_count": 4848,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "Nichts ist schwierig auf der Welt\n东方白@432Ifantrygroup小号，https://t.co/JmbqtJGYqD匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "432Ifantrygroup"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 79,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 56,
+                "url": "https://t.co/JmbqtJGYqD"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2067135748428763485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 330,
+          "like_count": 3165,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

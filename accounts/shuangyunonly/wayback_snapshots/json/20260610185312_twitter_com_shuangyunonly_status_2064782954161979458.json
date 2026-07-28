@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2064739876965404707",
+    "created_at": "2026-06-10T18:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064782954161979458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946593949180993536",
+          "start": 0,
+          "username": "RogerDisboard"
+        },
+        {
+          "end": 25,
+          "id": "142761596",
+          "start": 15,
+          "username": "FZY250926"
+        },
+        {
+          "end": 34,
+          "id": "1948395176831131648",
+          "start": 26,
+          "username": "zy89644"
+        },
+        {
+          "end": 47,
+          "id": "2059475041126055936",
+          "start": 35,
+          "username": "Hshdhhd7ofy"
+        },
+        {
+          "end": 63,
+          "id": "1688792465292374016",
+          "start": 48,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064782954161979458",
+    "in_reply_to_user_id": "1946593949180993536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064739876965404707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RogerDisboard @FZY250926 @zy89644 @Hshdhhd7ofy @unitedly_37400 妈咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2064739869944082432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdt-OWacAAMWfz.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2064739876965404707",
+        "created_at": "2026-06-10T18:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064782954161979458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 25,
+              "id": "142761596",
+              "start": 15,
+              "username": "FZY250926"
+            },
+            {
+              "end": 34,
+              "id": "1948395176831131648",
+              "start": 26,
+              "username": "zy89644"
+            },
+            {
+              "end": 47,
+              "id": "2059475041126055936",
+              "start": 35,
+              "username": "Hshdhhd7ofy"
+            },
+            {
+              "end": 63,
+              "id": "1688792465292374016",
+              "start": 48,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064782954161979458",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064739876965404707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @FZY250926 @zy89644 @Hshdhhd7ofy @unitedly_37400 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064739869944082432"
+          ]
+        },
+        "author_id": "1946593949180993536",
+        "conversation_id": "2064739876965404707",
+        "created_at": "2026-06-10T16:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064739876965404707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "142761596",
+              "start": 22,
+              "username": "FZY250926"
+            },
+            {
+              "end": 41,
+              "id": "1948395176831131648",
+              "start": 33,
+              "username": "zy89644"
+            },
+            {
+              "end": 60,
+              "id": "2059475041126055936",
+              "start": 48,
+              "username": "Hshdhhd7ofy"
+            },
+            {
+              "end": 82,
+              "id": "1688792465292374016",
+              "start": 67,
+              "username": "unitedly_37400"
+            },
+            {
+              "end": 97,
+              "id": "1690146503158108163",
+              "start": 83,
+              "username": "shuangyunonly"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 125,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063580759265533952/sfNenir4?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063580759265533952/sfNenir4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/TxRnDpHoFR"
+            },
+            {
+              "display_url": "pic.x.com/EcSrSCxR6w",
+              "end": 149,
+              "expanded_url": "https://x.com/RogerDisboard/status/2064739876965404707/photo/1",
+              "media_key": "3_2064739869944082432",
+              "start": 126,
+              "url": "https://t.co/EcSrSCxR6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064739876965404707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @FZY250926 @zy89644\n👰 配偶: @Hshdhhd7ofy\n👶 孩子: @unitedly_37400 @shuangyunonly\n\n➡️ https://t.co/TxRnDpHoFR https://t.co/EcSrSCxR6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 113,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2064737881709781490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1099,
+          "like_count": 8710,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2269
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-11T17:58:18.000Z",
+        "description": "这是简介ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ\n这是某某ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ：@orbit_ZF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "orbit_ZF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "这是网页.com",
+                "end": 23,
+                "expanded_url": "http://xn--0iv827cyvl78h.com",
+                "start": 0,
+                "url": "https://t.co/Exc2GEN5P4"
+              }
+            ]
+          }
+        },
+        "id": "142761596",
+        "location": "这是位置ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ",
+        "name": "溯᳐光᳐੭•G3",
+        "pinned_tweet_id": "2064456408800821718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064455766124417024/YysZkv5A_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 343,
+          "like_count": 40145,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/Exc2GEN5P4",
+        "username": "FZY250926",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "無\n我要杀人\n抹茶杀人魔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "上下左右之处",
+        "name": "이×3≈犬犬前",
+        "pinned_tweet_id": "2064383514183872746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062182453452914688/IDBPUHCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 286,
+          "like_count": 54176,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 7060
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2064585079964541101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 111,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 439
+        },
+        "username": "Hshdhhd7ofy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰but大阪メトロ跟我半毛钱关系没有就是🤡｜（以前的）名字看着像假账号但我懒得改（划掉）终于改名了 ｜🇯🇵 🇺🇦 🏳️‍⚧️👍｜微查成分，不要太极端都会回fo😽😽😽｜小号👉@tsurumi_37400 欢迎关注喵｜@arashi5official｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "arashi5official"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "United States of Constel ",
+        "name": "中井鶴見)⌒★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 561,
+          "like_count": 77526,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1440
+        },
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

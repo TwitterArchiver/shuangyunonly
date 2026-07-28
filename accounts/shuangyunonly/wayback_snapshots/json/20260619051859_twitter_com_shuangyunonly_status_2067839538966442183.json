@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067508876736610304"
+      ],
+      "media_source_tweet_id": [
+        "2067562973590388751"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067839538966442183",
+    "created_at": "2026-06-19T05:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067839538966442183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901499166737727488",
+          "start": 3,
+          "username": "mando_genai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGe1DVphPr",
+          "end": 52,
+          "expanded_url": "https://x.com/mando_genai/status/2067562973590388751/photo/1",
+          "media_key": "3_2067508876736610304",
+          "start": 29,
+          "url": "https://t.co/gGe1DVphPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067839538966442183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067562973590388751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mando_genai: 消えたがり、いきたがり https://t.co/gGe1DVphPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2067508876736610304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFEXofaQAAfVVJ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067508876736610304"
+          ],
+          "media_source_tweet_id": [
+            "2067562973590388751"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067839538966442183",
+        "created_at": "2026-06-19T05:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067839538966442183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901499166737727488",
+              "start": 3,
+              "username": "mando_genai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGe1DVphPr",
+              "end": 52,
+              "expanded_url": "https://x.com/mando_genai/status/2067562973590388751/photo/1",
+              "media_key": "3_2067508876736610304",
+              "start": 29,
+              "url": "https://t.co/gGe1DVphPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067839538966442183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067562973590388751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mando_genai: 消えたがり、いきたがり https://t.co/gGe1DVphPr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067508876736610304"
+          ]
+        },
+        "author_id": "1901499166737727488",
+        "conversation_id": "2067562973590388751",
+        "created_at": "2026-06-18T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067562973590388751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGe1DVphPr",
+              "end": 35,
+              "expanded_url": "https://x.com/mando_genai/status/2067562973590388751/photo/1",
+              "media_key": "3_2067508876736610304",
+              "start": 12,
+              "url": "https://t.co/gGe1DVphPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067562973590388751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2980,
+          "like_count": 324,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "消えたがり、いきたがり https://t.co/gGe1DVphPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 156,
+          "like_count": 5803,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T05:01:54.000Z",
+        "description": "AIart AIで生成したイラストを自由に投稿中。I post AI-generated illustrations in various styles.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mad0genai",
+                "end": 23,
+                "expanded_url": "https://lit.link/mad0genai",
+                "start": 0,
+                "url": "https://t.co/XTEDIVogxn"
+              }
+            ]
+          }
+        },
+        "id": "1901499166737727488",
+        "name": "mando",
+        "pinned_tweet_id": "2034521357997019501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931317925849579520/-PEtoye3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7229,
+          "following_count": 311,
+          "like_count": 52342,
+          "listed_count": 50,
+          "media_count": 1235,
+          "tweet_count": 9919
+        },
+        "url": "https://t.co/XTEDIVogxn",
+        "username": "mando_genai",
+        "verified": true
+      }
+    ]
+  }
+}

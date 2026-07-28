@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2060059528356561041",
+    "created_at": "2026-05-28T18:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060059528356561041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2056…",
+          "end": 41,
+          "expanded_url": "http://x.com/i/article/2056054544581394432",
+          "start": 18,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2056054544581394432",
+          "url": "https://t.co/QG6R7Kr91h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060059528356561041",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059801421500014971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: https://t.co/QG6R7Kr91h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2060059528356561041",
+        "created_at": "2026-05-28T18:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060059528356561041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 41,
+              "expanded_url": "http://x.com/i/article/2056054544581394432",
+              "start": 18,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056054544581394432",
+              "url": "https://t.co/QG6R7Kr91h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060059528356561041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059801421500014971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: https://t.co/QG6R7Kr91h"
+      },
+      {
+        "article": {
+          "title": "造谣，栽桩陷害，偷盗财物，教唆药物滥用，挑拨离间，敲诈勒索......关于对一些造谣者的行为的态度与回应"
+        },
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-05-28T00:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059801421500014971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056054544581394432",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056054544581394432",
+              "url": "https://t.co/QG6R7Kr91h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059801421500014971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8227,
+          "like_count": 79,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QG6R7Kr91h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /一切正常/持续学习中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057878272898461696/QCRSW2gP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 68,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41682,
+          "following_count": 3787,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2919
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

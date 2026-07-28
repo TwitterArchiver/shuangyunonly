@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2066020792140431593",
+    "created_at": "2026-06-14T07:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066055819813425227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Texiuszhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066055819813425227",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066020792140431593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Texiuszhichuan 艾草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2066020792140431593",
+        "created_at": "2026-06-14T07:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066055819813425227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiuszhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066055819813425227",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066020792140431593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan 艾草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2066020792140431593",
+        "created_at": "2026-06-14T04:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066020792140431593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066020792140431593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱人籍，重回猫娘籍。\n回望之前的物种焦虑、身份认同挣扎，是漫长且痛苦的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差\n\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以认同物种好好生活，祝我们都能用自己的方式生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 131,
+          "like_count": 3414,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2065348984466813399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 203,
+          "like_count": 3465,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 567
+        },
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

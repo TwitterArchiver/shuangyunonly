@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2065474941894725846",
+    "created_at": "2026-06-12T16:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065475653613638086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065475653613638086",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065474941894725846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2065474941894725846",
+        "created_at": "2026-06-12T16:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065475653613638086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065475653613638086",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065474941894725846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035758475209572352",
+        "conversation_id": "2065474941894725846",
+        "created_at": "2026-06-12T16:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065474941894725846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065474941894725846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡覺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 127,
+          "like_count": 2855,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n|友跨🏳️‍⚧️🏳️‍🌈|順男|陽性精分|泛性戀|國族主義/社會民主主義/左翼民族主義/溫和左翼|泛統派|理性思考，包容不同政見|閩臺係|\n歡迎加入「中華統一復興大會」@ChineseURC_BOT\n望友好交流。查成分互fo\n藍v暑假再續",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1562,
+          "like_count": 15820,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 5050
+        },
+        "username": "LoveMikuBX",
+        "verified": false
+      }
+    ]
+  }
+}

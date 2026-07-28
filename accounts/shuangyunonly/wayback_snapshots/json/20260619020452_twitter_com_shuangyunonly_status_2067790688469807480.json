@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067457891247022240",
+    "created_at": "2026-06-19T02:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067790688469807480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952269546079055873",
+          "start": 0,
+          "username": "XinQAQwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067790688469807480",
+    "in_reply_to_user_id": "1952269546079055873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067457891247022240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinQAQwww 活着的那几年，祝好运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067457891247022240",
+        "created_at": "2026-06-19T02:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067790688469807480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952269546079055873",
+              "start": 0,
+              "username": "XinQAQwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067790688469807480",
+        "in_reply_to_user_id": "1952269546079055873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067457891247022240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinQAQwww 活着的那几年，祝好运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952269546079055873",
+        "conversation_id": "2067457891247022240",
+        "created_at": "2026-06-18T04:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067457891247022240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067457891247022240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 304,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们还有几年可活？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2067669975851225162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 155,
+          "like_count": 5604,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T07:25:22.000Z",
+        "description": "霜桦的小屋🏠|喵喵喵喵喵|炸柜💥|男的呢|半吃糖🍥|自残（划掉）|不od|喝酒|孤单喵|喜欢雨天🌧️|坐标北京|想去杭州🌳|互fo🥺|交个朋友喵|\n\n请肆意骚扰我喵，好无聊好无聊🥺\n喵喵喵",
+        "id": "1952269546079055873",
+        "name": "XinQAQ",
+        "pinned_tweet_id": "2065006702450360703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064629476625985536/Vz0IR-h2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 347,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "XinQAQwww",
+        "verified": false
+      }
+    ]
+  }
+}

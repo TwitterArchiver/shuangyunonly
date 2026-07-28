@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067290074916761600"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2067289324413166033",
+    "created_at": "2026-06-17T16:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067290086983737601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979068278673981440",
+          "start": 0,
+          "username": "orange219695619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I6vbbmj8Vq",
+          "end": 40,
+          "expanded_url": "https://x.com/shuangyunonly/status/2067290086983737601/photo/1",
+          "media_key": "3_2067290074916761600",
+          "start": 17,
+          "url": "https://t.co/I6vbbmj8Vq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067290086983737601",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067289324413166033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange219695619 https://t.co/I6vbbmj8Vq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2067290074916761600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB9XsMasAAFO_P.jpg",
+        "width": 512
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067289321175195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB8r0SbIAAh7fV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 607,
+        "media_key": "3_2067289282851782656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB8plhaQAAbzuE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067290074916761600"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2067289324413166033",
+        "created_at": "2026-06-17T16:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067290086983737601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6vbbmj8Vq",
+              "end": 40,
+              "expanded_url": "https://x.com/shuangyunonly/status/2067290086983737601/photo/1",
+              "media_key": "3_2067290074916761600",
+              "start": 17,
+              "url": "https://t.co/I6vbbmj8Vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067290086983737601",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067289324413166033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 https://t.co/I6vbbmj8Vq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067289321175195648",
+            "3_2067289282851782656"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067289324413166033",
+        "created_at": "2026-06-17T16:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067289324413166033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8a3TYxIoj",
+              "end": 84,
+              "expanded_url": "https://x.com/orange219695619/status/2067289324413166033/photo/1",
+              "media_key": "3_2067289321175195648",
+              "start": 61,
+              "url": "https://t.co/E8a3TYxIoj"
+            },
+            {
+              "display_url": "pic.x.com/E8a3TYxIoj",
+              "end": 84,
+              "expanded_url": "https://x.com/orange219695619/status/2067289324413166033/photo/1",
+              "media_key": "3_2067289282851782656",
+              "start": 61,
+              "url": "https://t.co/E8a3TYxIoj"
+            },
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/orange219695619/status/2067288286461329741",
+              "start": 85,
+              "url": "https://t.co/3Ye54vG9ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067289324413166033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067288286461329741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是第一批😇\n我不知道为什么都糊了，可能是火大了或者鸡蛋液放多了（我实在没找到刷子）\n但是为什么没发起来啊😭\n图二是食谱 https://t.co/E8a3TYxIoj https://t.co/3Ye54vG9ls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/低落阶段",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "name": "双允喵☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061887867610333184/aBvXuucF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 147,
+          "like_count": 5069,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 185,
+          "like_count": 10511,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 6574
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}
