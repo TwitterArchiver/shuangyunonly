@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T12:08:20",
+  "last_updated": "2026-07-28T12:08:46",
   "html": {
     "https://web.archive.org/web/20260527143007if_/https://twitter.com/shuangyunonly/status/2059643314924830938": {
       "status": "done",
@@ -4792,9 +4792,9 @@
       "referenced_by": [
         "20260608162047_twitter_com_shuangyunonly_status_2064019820107239778.json"
       ],
-      "last_updated": "2026-07-28T11:31:41",
+      "last_updated": "2026-07-28T12:08:42",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608162047/https://video.twimg.com/tweet_video/HKQScC0WMAArqro.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HKTmay_akAAmyGC.mp4": {
       "status": "done",
@@ -4957,9 +4957,9 @@
       "referenced_by": [
         "20260621013602_twitter_com_shuangyunonly_status_2068508209778942183.json"
       ],
-      "last_updated": "2026-07-28T11:31:42",
+      "last_updated": "2026-07-28T12:08:46",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260621013602/https://video.twimg.com/tweet_video/HLTRMfpbwAEimkW.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HLXVuwlaEAAPei-.mp4": {
       "status": "done",
