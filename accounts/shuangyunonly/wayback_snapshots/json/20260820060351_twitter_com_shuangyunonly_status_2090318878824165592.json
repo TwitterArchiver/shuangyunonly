@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090112462746226688"
+      ],
+      "media_source_tweet_id": [
+        "2090112599757361589"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2090318878824165592",
+    "created_at": "2026-08-20T06:03:51.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090318878824165592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2023654743424552961",
+          "start": 3,
+          "username": "tuzi_lumaomao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xFjJn81yZT",
+          "end": 69,
+          "expanded_url": "https://x.com/tuzi_lumaomao/status/2090112599757361589/photo/1",
+          "media_key": "3_2090112462746226688",
+          "start": 46,
+          "url": "https://t.co/xFjJn81yZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090318878824165592",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090112462746226688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090112599757361589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuzi_lumaomao: 所登场的deepseek harness均已满18岁 https://t.co/xFjJn81yZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2090112462746226688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGSNgKbEAATejR.jpg",
+        "width": 1265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090112462746226688"
+          ],
+          "media_source_tweet_id": [
+            "2090112599757361589"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2090318878824165592",
+        "created_at": "2026-08-20T06:03:51.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090318878824165592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2023654743424552961",
+              "start": 3,
+              "username": "tuzi_lumaomao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFjJn81yZT",
+              "end": 69,
+              "expanded_url": "https://x.com/tuzi_lumaomao/status/2090112599757361589/photo/1",
+              "media_key": "3_2090112462746226688",
+              "start": 46,
+              "url": "https://t.co/xFjJn81yZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090318878824165592",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090112462746226688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090112599757361589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuzi_lumaomao: 所登场的deepseek harness均已满18岁 https://t.co/xFjJn81yZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090112462746226688"
+          ]
+        },
+        "author_id": "2023654743424552961",
+        "conversation_id": "2090112599757361589",
+        "created_at": "2026-08-19T16:24:10.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090112599757361589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFjJn81yZT",
+              "end": 50,
+              "expanded_url": "https://x.com/tuzi_lumaomao/status/2090112599757361589/photo/1",
+              "media_key": "3_2090112462746226688",
+              "start": 27,
+              "url": "https://t.co/xFjJn81yZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090112599757361589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090112462746226688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 7020,
+          "like_count": 1230,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "所登场的deepseek harness均已满18岁 https://t.co/xFjJn81yZT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2090318878824165592",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 241,
+          "like_count": 14741,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T07:04:48.000Z",
+        "description": "i am back (๑´∀`๑)\nPixiv: users/25694114\nNSFW baraag:@tuzi_lumaomao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "tuzi_lumaomao"
+              }
+            ]
+          }
+        },
+        "id": "2023654743424552961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090262259356577881",
+        "name": "途淄（二号机）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023658420768010240/-fI2ZoPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12335,
+          "following_count": 219,
+          "like_count": 1268,
+          "listed_count": 30,
+          "media_count": 65,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "tuzi_lumaomao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

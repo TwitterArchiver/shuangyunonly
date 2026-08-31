@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2088462498987164093",
+    "created_at": "2026-08-15T03:07:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088462498987164093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854091917338021888",
+          "start": 3,
+          "username": "ZLINK243424"
+        },
+        {
+          "end": 31,
+          "id": "2066487415678918657",
+          "start": 17,
+          "username": "danshuishuimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088462498987164093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087968451491176462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZLINK243424: @danshuishuimu 有些人吃辣椒，是因为这些人喜欢吃辣\n有些人讨厌辣椒，是因为这些人不喜欢吃辣\n\n辣椒本身什么都没有做错，它只是存在而已\n\n被人讨厌也不一定是你自己的原因，不要每次都为了自己被讨厌而开始反思自己做错了什么，说不定这些人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2088462498987164093",
+        "created_at": "2026-08-15T03:07:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088462498987164093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854091917338021888",
+              "start": 3,
+              "username": "ZLINK243424"
+            },
+            {
+              "end": 31,
+              "id": "2066487415678918657",
+              "start": 17,
+              "username": "danshuishuimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088462498987164093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087968451491176462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZLINK243424: @danshuishuimu 有些人吃辣椒，是因为这些人喜欢吃辣\n有些人讨厌辣椒，是因为这些人不喜欢吃辣\n\n辣椒本身什么都没有做错，它只是存在而已\n\n被人讨厌也不一定是你自己的原因，不要每次都为了自己被讨厌而开始反思自己做错了什么，说不定这些人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854091917338021888",
+        "conversation_id": "2087959256511524910",
+        "created_at": "2026-08-13T18:24:06.000Z",
+        "display_text_range": [
+          15,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087968451491176462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066487415678918657",
+              "start": 0,
+              "username": "danshuishuimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087968451491176462",
+        "in_reply_to_user_id": "2066487415678918657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087959256511524910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danshuishuimu 有些人吃辣椒，是因为这些人喜欢吃辣\n有些人讨厌辣椒，是因为这些人不喜欢吃辣\n\n辣椒本身什么都没有做错，它只是存在而已\n\n被人讨厌也不一定是你自己的原因，不要每次都为了自己被讨厌而开始反思自己做错了什么，说不定这些人就是天生和你合不来呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2088462498987164093",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 226,
+          "like_count": 13745,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T09:22:40.000Z",
+        "description": "Battlefield严重中毒/ボカロ重度依赖/自殺未遂/废宅/角落里的垃圾人/讨厌社交/08男/泛性恋/LGBTQIA＋友好/成分复杂/可以叫我Zero/让您不爽真是非常抱歉\n\n私たちは光芒と深宇宙のなかで神を見た，\n我们在泛光和深空中看见了神，\n私たちは公式と真理のなかで 神を殺した，\n我们在公式和真理中杀死了神。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/expcal…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/expcalibur0000.bsky.social",
+                "start": 0,
+                "url": "https://t.co/TNTSIx9k3b"
+              }
+            ]
+          }
+        },
+        "id": "1854091917338021888",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2088462092139630989",
+        "name": "可悲的Zeroくん:⁠-⁠P",
+        "pinned_tweet_id": "2063303274376347919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854091917338021888/1773679423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058720971872403456/NDILyBIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 461,
+          "like_count": 41100,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 8071
+        },
+        "url": "https://t.co/TNTSIx9k3b",
+        "username": "ZLINK243424",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你/此账号为个人账号\n离世日期已定\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/大号@17nuun\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "is_identity_verified": false,
+        "location": "正在抱住你",
+        "most_recent_tweet_id": "2088243643346026832",
+        "name": "海月淡水水母x17🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066487415678918657/1782388254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 374,
+          "like_count": 466,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089995040538189824",
+        "3_2089995056812027904"
+      ],
+      "media_source_tweet_id": [
+        "2089995066802844001",
+        "2089995066802844001"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2090048713297371430",
+    "created_at": "2026-08-19T12:10:19.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090048713297371430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060050991370891265",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mS0BvnKFL6",
+          "end": 81,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2089995066802844001/photo/1",
+          "media_key": "3_2089995040538189824",
+          "start": 58,
+          "url": "https://t.co/mS0BvnKFL6"
+        },
+        {
+          "display_url": "pic.x.com/mS0BvnKFL6",
+          "end": 81,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2089995066802844001/photo/1",
+          "media_key": "3_2089995056812027904",
+          "start": 58,
+          "url": "https://t.co/mS0BvnKFL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090048713297371430",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089995040538189824"
+      },
+      {
+        "media_key": "3_2089995056812027904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089995066802844001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 奇异搞笑。\n上英语课看见被封，然后写了一节课英语作文来申诉😅还挺应景说是😅😅😅 https://t.co/mS0BvnKFL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2089995040538189824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEnaoWbYAAOX97.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2089995056812027904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEnbk-acAATn12.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089995040538189824",
+            "3_2089995056812027904"
+          ],
+          "media_source_tweet_id": [
+            "2089995066802844001",
+            "2089995066802844001"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2090048713297371430",
+        "created_at": "2026-08-19T12:10:19.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090048713297371430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060050991370891265",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mS0BvnKFL6",
+              "end": 81,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2089995066802844001/photo/1",
+              "media_key": "3_2089995040538189824",
+              "start": 58,
+              "url": "https://t.co/mS0BvnKFL6"
+            },
+            {
+              "display_url": "pic.x.com/mS0BvnKFL6",
+              "end": 81,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2089995066802844001/photo/1",
+              "media_key": "3_2089995056812027904",
+              "start": 58,
+              "url": "https://t.co/mS0BvnKFL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090048713297371430",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089995040538189824"
+          },
+          {
+            "media_key": "3_2089995056812027904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089995066802844001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 奇异搞笑。\n上英语课看见被封，然后写了一节课英语作文来申诉😅还挺应景说是😅😅😅 https://t.co/mS0BvnKFL6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089995040538189824",
+            "3_2089995056812027904"
+          ]
+        },
+        "author_id": "2060050991370891265",
+        "conversation_id": "2089995066802844001",
+        "created_at": "2026-08-19T08:37:08.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089995066802844001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mS0BvnKFL6",
+              "end": 63,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2089995066802844001/photo/1",
+              "media_key": "3_2089995040538189824",
+              "start": 40,
+              "url": "https://t.co/mS0BvnKFL6"
+            },
+            {
+              "display_url": "pic.x.com/mS0BvnKFL6",
+              "end": 63,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2089995066802844001/photo/1",
+              "media_key": "3_2089995056812027904",
+              "start": 40,
+              "url": "https://t.co/mS0BvnKFL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089995066802844001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089995040538189824"
+          },
+          {
+            "media_key": "3_2089995056812027904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2471,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "奇异搞笑。\n上英语课看见被封，然后写了一节课英语作文来申诉😅还挺应景说是😅😅😅 https://t.co/mS0BvnKFL6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2090048713297371430",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 236,
+          "like_count": 14518,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090022689935441929",
+        "name": "汐落",
+        "pinned_tweet_id": "2078739157397205454",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 282,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "Shioochicqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

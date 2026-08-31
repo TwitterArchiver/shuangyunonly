@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2091017319723974812",
+    "created_at": "2026-08-22T04:19:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091017319723974812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831350388861345793",
+          "start": 3,
+          "username": "Hiime0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091017319723974812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090830493336146090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiime0: 上精卫(600号)住院经验总结\n结论先行：请竭尽全力避免住进这里！！！\n【入院】\n注意：以下信息全部为本人在五病区真实所见，若与你的体验有所出入，可能是由于病区不同所致，请友好探讨。\n！一旦开出住院通知单，家属可强制患者住院… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2090830480811905025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQfPp5aUAEUCcN.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2091017319723974812",
+        "created_at": "2026-08-22T04:19:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091017319723974812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831350388861345793",
+              "start": 3,
+              "username": "Hiime0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091017319723974812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830493336146090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiime0: 上精卫(600号)住院经验总结\n结论先行：请竭尽全力避免住进这里！！！\n【入院】\n注意：以下信息全部为本人在五病区真实所见，若与你的体验有所出入，可能是由于病区不同所致，请友好探讨。\n！一旦开出住院通知单，家属可强制患者住院… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090830480811905025"
+          ]
+        },
+        "author_id": "1831350388861345793",
+        "conversation_id": "2090830493336146090",
+        "created_at": "2026-08-21T15:56:50.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:53:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090829634372014183",
+          "2090830493336146090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSjhNbQ4OG",
+              "end": 136,
+              "expanded_url": "https://x.com/Hiime0/status/2090830493336146090/photo/1",
+              "media_key": "3_2090830480811905025",
+              "start": 113,
+              "url": "https://t.co/xSjhNbQ4OG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090830493336146090",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090830480811905025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "上精卫(600号)住院经验总结\n结论先行：请竭尽全力避免住进这里！！！\n【入院】\n注意：以下信息全部为本人在五病区真实所见，若与你的体验有所出入，可能是由于病区不同所致，请友好探讨。\n！一旦开出住院通知单，家属可强制患者住院\n本人在家属强行开出住院通知单后报警，结果直接被警察诱骗进了病区，没有任何商量。故应竭力阻挠住院通知单的开具。\n【住院】\n！所有新病人都会先行进入1级病室，环境极其险恶\n1级病室内基本都是重症病患，随时可能对你进行骚扰或精神攻击，本人在1级病室就寝时，左侧床位的病患发表了长达6个小时慷慨激昂的“独立宣言”，致使本人彻夜无眠，于4点逃离至饭厅，呆滞地望着窗外，看那天空由灰蒙蒙的黑慢慢转变为灰蒙蒙的蓝。\n进入1级病室时不会为你更换新的床具，你需要继承重症病患留下的，满是污垢且散发酸臭味的床具，建议向护工申请床垫。\n如果表现较好，医生会将你移出1级病室，本人仅1天就被移出。\n！无聊透顶，你需要想尽办法消磨时间\n手机的使用权需要向医生申请，且每天最多玩2小时（18:00~20:00），就本人所见仅15%的病患被批准使用手机。\n病区安排的活动只有水笔绘画、电影或弱智小课堂，且时间短暂，你需要让家属带来一些能够消磨时间的物品，例如小说，练习题或素描本。注意，笔只能偷偷夹带。\n！最大的威胁是病患\n本人见过的其它病患的行为：\n1、盗窃\n2、随意食用他人的食物\n3、强行搭话，长时间言语骚扰\n4、暴力\n5、不洗澡\n6、上厕所不冲\n7、性骚扰\n8、其它令人反感的异常举动（例如以一种非常恶心的神态长时间斜眼看着你）\n因此，即使你找到了可以专心做的事，也会被打扰得心烦意乱，无所适从。\n病患大多数时间在活动室活动，每个人的座位较为固定且空座较少，因此寻找一个四周的人较为正常的座位尤为关键。遗憾的是，这里90%的人都离人类很远了。\n幸运的是，本人找到了一个比较安宁的座位，也结识了一位比较投缘的朋友，与之相谈甚欢，这种相谈也帮助双方消磨了很多难熬的时光。（她甚至认可了我的性别认同并表示“祝你早日成为一个pretty girl”）\n！医生毫无耐心，且随意延长住院时间\n工作日的9:00左右为床位医生例行查房的时间，医生需要过问他所负责的所有患者的情况（15个左右），因此与你沟通的时间非常有限（病情稳定≈1min，欠稳定≈5min），耐心也非常有限，因此对于病情复杂或药物敏感者非常不友好。本人曾打算跟医生交代4个部分的内容：1、睡眠欠佳；2、可能是来这里未能适应所致；3、既往睡眠药物用药史及严重副反应；4、请等待我实在适应不能时再斟酌睡眠药物。结果，她在听了我说“睡眠不好”四个字后，直接撇下一句“知道了”，扭头就跑，根本不听我接下来的3部分内容，直接导致了用药失误。\n荒谬之事不止于此。这里的医生对于“出院”倒是极其谨慎，和面对问诊完全是两个态度。任何出院行为都必须经过2周的观察期，期间药物保持固定，若要改动则很可能重置观察期。医生还可能因为各种原因延迟你的出院日期，例如以下两个真实案例：1、医生观察到G先生在会客时与家人吵架，认为他情绪不稳而延迟其出院日期；2、W女士向舅舅反馈自己对病室内的邪教感到恐惧，情绪十分不安，舅舅把情况反馈给医生，医生决定将W女士的出院日期延迟2周。\n！其它值得注意的点\n1、病区很旧很小\n2、算上午睡每天睡12小时\n3、厕所几乎每时每刻都在排队且不分男女\n4、厕所非常脏\n5、活动室全是蟑螂\n6、床上也有蟑螂\n7、男寝异味严重\n8、出去检查可能会给你绑手然后牵着\n9、绑床上的学名叫做“约束护理”\n10、洗澡时间非常短\n11、住院=断糖（上精卫的最短住院时间为：30天）\n【讲在最后】\n那么，经过了33天的折磨，我们的Wakaba Hiime小姐，是否在病情上得到令人欣慰的改善了呢？\n答案是：\n完！全！没！有！\n当然，本人绝不否定住院对大多数患者的积极作用。\n1、住院可以密切监控重症患者或不稳定患者的病情\n2、住院可以强行规范患者的服药，且可以非常及时地在需要时调整药物\n3、住院部的祖传手艺MECT可以快速压制病情（提示：门诊也可以申请MECT）\n所以，住院对于大多数人来说，既是治愈之路的一步快棋，又是一场辛酸的煎熬。是否要选择住院，需要进行综合考虑。我这里想说的只是，如果决定住院，恐怕还是别来上精卫了吧。当我得知回龙观住院一天能用5.5个小时手机时，那种不平衡感就成了我不得不处理的心灵痼疾。\n最后引用我住院期间朋友的一句话，来给这篇长文描绘的机构做个了结：\n金玉其外，败絮其中。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3582,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "上精卫(600号)住院经验总结\n结论先行：请竭尽全力避免住进这里！！！\n【入院】\n注意：以下信息全部为本人在五病区真实所见，若与你的体验有所出入，可能是由于病区不同所致，请友好探讨。\n！一旦开出住院通知单，家属可强制患者住院 https://t.co/xSjhNbQ4OG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2091017319723974812",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 243,
+          "like_count": 15105,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "07｜无证含糖｜Transles｜家暴党｜但愿有朝共归浪@xynAsabaShizuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "xynAsabaShizuku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "is_identity_verified": false,
+        "location": "東京湾",
+        "most_recent_tweet_id": "2090954309500583955",
+        "name": "ひいめ🍥🍡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831350388861345793/1780772130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054384234526388224/MagCt1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 256,
+          "like_count": 791,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

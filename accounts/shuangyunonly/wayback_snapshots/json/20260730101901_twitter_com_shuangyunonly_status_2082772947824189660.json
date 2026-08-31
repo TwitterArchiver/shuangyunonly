@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2082694608451158412",
+    "created_at": "2026-07-30T10:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082772947824189660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1406710586608652289",
+          "start": 0,
+          "username": "ruririru7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082772947824189660",
+    "in_reply_to_user_id": "1406710586608652289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082762019783278680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruririru7 被ghost ban了🥲蹭蹭喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082761987172573184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd0_g0boAANF9p.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2082694608451158412",
+        "created_at": "2026-07-30T10:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082772947824189660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406710586608652289",
+              "start": 0,
+              "username": "ruririru7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082772947824189660",
+        "in_reply_to_user_id": "1406710586608652289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082762019783278680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruririru7 被ghost ban了🥲蹭蹭喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082761987172573184"
+          ]
+        },
+        "author_id": "1406710586608652289",
+        "conversation_id": "2082694608451158412",
+        "created_at": "2026-07-30T09:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082762019783278680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690146503158108163",
+              "start": 0,
+              "username": "shuangyunonly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3g5wvYEy1",
+              "end": 71,
+              "expanded_url": "https://x.com/ruririru7/status/2082762019783278680/photo/1",
+              "media_key": "3_2082761987172573184",
+              "start": 48,
+              "url": "https://t.co/F3g5wvYEy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082762019783278680",
+        "in_reply_to_user_id": "1690146503158108163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082751692299522523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangyunonly 宝宝我发现你的like和回复都不会出现在通知里喵，惨喵，摸摸你喵 https://t.co/F3g5wvYEy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/不了解真相绝不发表自己的观点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5Jawto"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "location": "site-■■",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2069133607063695526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074745327593373696/TlupDOBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 214,
+          "like_count": 13031,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/F72A5Jawto",
+        "username": "shuangyunonly",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T20:28:43.000Z",
+        "description": "愿所有宝宝都能被温柔以待｜可以和我一起玩吗｜（168/52）",
+        "id": "1406710586608652289",
+        "name": "恋し🌸",
+        "pinned_tweet_id": "2082329423932793333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064060311863517185/CWRtACGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 51,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "ruririru7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088614800603697152",
+        "3_2088614809575243777",
+        "3_2088614817166979072"
+      ],
+      "media_source_tweet_id": [
+        "2088614826775904707",
+        "2088614826775904707",
+        "2088614826775904707"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2088631523591454733",
+    "created_at": "2026-08-15T14:18:54.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088631523591454733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088610517720158208",
+          "start": 3,
+          "username": "LinQi_AWA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EjFRTd7MXk",
+          "end": 65,
+          "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+          "media_key": "3_2088614800603697152",
+          "start": 42,
+          "url": "https://t.co/EjFRTd7MXk"
+        },
+        {
+          "display_url": "pic.x.com/EjFRTd7MXk",
+          "end": 65,
+          "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+          "media_key": "3_2088614809575243777",
+          "start": 42,
+          "url": "https://t.co/EjFRTd7MXk"
+        },
+        {
+          "display_url": "pic.x.com/EjFRTd7MXk",
+          "end": 65,
+          "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+          "media_key": "3_2088614817166979072",
+          "start": 42,
+          "url": "https://t.co/EjFRTd7MXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088631523591454733",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088614800603697152"
+      },
+      {
+        "media_key": "3_2088614809575243777"
+      },
+      {
+        "media_key": "3_2088614817166979072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088614826775904707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinQi_AWA: 我是LinQi QAQ,原本的賬戶被盜，然後惡意停用 https://t.co/EjFRTd7MXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2088614800603697152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxAGF6bUAA1ash.jpg",
+        "width": 1080
+      },
+      {
+        "height": 796,
+        "media_key": "3_2088614809575243777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxAGnVaQAE0dFb.jpg",
+        "width": 776
+      },
+      {
+        "height": 845,
+        "media_key": "3_2088614817166979072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxAHDna8AAIc8-.jpg",
+        "width": 1876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614800603697152",
+            "3_2088614809575243777",
+            "3_2088614817166979072"
+          ],
+          "media_source_tweet_id": [
+            "2088614826775904707",
+            "2088614826775904707",
+            "2088614826775904707"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2088631523591454733",
+        "created_at": "2026-08-15T14:18:54.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088631523591454733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088610517720158208",
+              "start": 3,
+              "username": "LinQi_AWA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjFRTd7MXk",
+              "end": 65,
+              "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+              "media_key": "3_2088614800603697152",
+              "start": 42,
+              "url": "https://t.co/EjFRTd7MXk"
+            },
+            {
+              "display_url": "pic.x.com/EjFRTd7MXk",
+              "end": 65,
+              "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+              "media_key": "3_2088614809575243777",
+              "start": 42,
+              "url": "https://t.co/EjFRTd7MXk"
+            },
+            {
+              "display_url": "pic.x.com/EjFRTd7MXk",
+              "end": 65,
+              "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+              "media_key": "3_2088614817166979072",
+              "start": 42,
+              "url": "https://t.co/EjFRTd7MXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088631523591454733",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614800603697152"
+          },
+          {
+            "media_key": "3_2088614809575243777"
+          },
+          {
+            "media_key": "3_2088614817166979072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088614826775904707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinQi_AWA: 我是LinQi QAQ,原本的賬戶被盜，然後惡意停用 https://t.co/EjFRTd7MXk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614800603697152",
+            "3_2088614809575243777",
+            "3_2088614817166979072"
+          ]
+        },
+        "author_id": "2088610517720158208",
+        "conversation_id": "2088614826775904707",
+        "created_at": "2026-08-15T13:12:33.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088614826775904707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjFRTd7MXk",
+              "end": 50,
+              "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+              "media_key": "3_2088614800603697152",
+              "start": 27,
+              "url": "https://t.co/EjFRTd7MXk"
+            },
+            {
+              "display_url": "pic.x.com/EjFRTd7MXk",
+              "end": 50,
+              "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+              "media_key": "3_2088614809575243777",
+              "start": 27,
+              "url": "https://t.co/EjFRTd7MXk"
+            },
+            {
+              "display_url": "pic.x.com/EjFRTd7MXk",
+              "end": 50,
+              "expanded_url": "https://x.com/LinQi_AWA/status/2088614826775904707/photo/1",
+              "media_key": "3_2088614817166979072",
+              "start": 27,
+              "url": "https://t.co/EjFRTd7MXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088614826775904707",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614800603697152"
+          },
+          {
+            "media_key": "3_2088614809575243777"
+          },
+          {
+            "media_key": "3_2088614817166979072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是LinQi QAQ,原本的賬戶被盜，然後惡意停用 https://t.co/EjFRTd7MXk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2088631523591454733",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 233,
+          "like_count": 13812,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T13:03:50.000Z",
+        "description": "草履蟲2.0\n妹妹@maomi1215\n原賬號被惡意凍結",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "maomi1215"
+              }
+            ]
+          }
+        },
+        "id": "2088610517720158208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088631035110031654",
+        "name": "LinQi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088613634591318016/iU2MSsuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 51,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "LinQi_AWA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

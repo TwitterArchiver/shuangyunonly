@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2088634406525411584",
+    "created_at": "2026-08-15T14:30:22.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088634406525411584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XinQAQwww/stat…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/XinQAQwww/status/2088620313840173213",
+          "start": 72,
+          "url": "https://t.co/K2l34O26aW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088634406525411584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088620313840173213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妳们怎么都这么可爱呜呜呜呜哇哇哇哇\n我已嫉妒我已愤怒我已胆怯我已悲伤不已\n啊啊啊啊啊啊啊啊啊啊啊啊啊\n为什么啊为什么啊都这么好看\n我早就自卑了 https://t.co/K2l34O26aW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2088634406525411584",
+        "created_at": "2026-08-15T14:30:22.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088634406525411584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XinQAQwww/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/XinQAQwww/status/2088620313840173213",
+              "start": 72,
+              "url": "https://t.co/K2l34O26aW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088634406525411584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088620313840173213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妳们怎么都这么可爱呜呜呜呜哇哇哇哇\n我已嫉妒我已愤怒我已胆怯我已悲伤不已\n啊啊啊啊啊啊啊啊啊啊啊啊啊\n为什么啊为什么啊都这么好看\n我早就自卑了 https://t.co/K2l34O26aW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952269546079055873",
+        "conversation_id": "2088620313840173213",
+        "created_at": "2026-08-15T13:34:22.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088620313840173213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosas_xyn/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Irosas_xyn/status/2088612804291117056",
+              "start": 72,
+              "url": "https://t.co/mLHFHjEIlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088620313840173213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088612804291117056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妳们怎么都这么可爱呜呜呜呜哇哇哇哇\n我已嫉妒我已愤怒我已胆怯我已悲伤不已\n啊啊啊啊啊啊啊啊啊啊啊啊啊\n为什么啊为什么啊都这么好看\n我早就自卑了 https://t.co/mLHFHjEIlH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2088634406525411584",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2086492624748507369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 233,
+          "like_count": 13818,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-04T07:25:22.000Z",
+        "description": "霜桦的小屋🏠|喵喵喵喵喵|炸柜💥|吃糖中…🍥|自残（划掉）|不od|喝酒|喜欢雨天🌧️|想去杭州🌳|互fo🥺|\n小号@XinQAQw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "XinQAQw"
+              }
+            ]
+          }
+        },
+        "id": "1952269546079055873",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088626358310297601",
+        "name": "XinQAQ🍥",
+        "pinned_tweet_id": "2088625450197418329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952269546079055873/1784617634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077334186419970048/lw6iz9un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 479,
+          "like_count": 1701,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "XinQAQwww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
