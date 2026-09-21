@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094049292633968641"
+      ],
+      "media_source_tweet_id": [
+        "2094049301257425322"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2094055902823465401",
+    "created_at": "2026-08-30T13:33:27.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094055902823465401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2006707388053860365",
+          "start": 3,
+          "username": "cqbr2375"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSt3rHaxdI",
+          "end": 62,
+          "expanded_url": "https://x.com/cqbr2375/status/2094049301257425322/photo/1",
+          "media_key": "3_2094049292633968641",
+          "start": 39,
+          "url": "https://t.co/JSt3rHaxdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094055902823465401",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094049292633968641"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094049301257425322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cqbr2375: 这些药加上二十克普瑞原粉和西柚汁和酒，应该够了的 https://t.co/JSt3rHaxdI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2094049292633968641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-OvKWbEAE8yRT.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094049292633968641"
+          ],
+          "media_source_tweet_id": [
+            "2094049301257425322"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2094055902823465401",
+        "created_at": "2026-08-30T13:33:27.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094055902823465401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006707388053860365",
+              "start": 3,
+              "username": "cqbr2375"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSt3rHaxdI",
+              "end": 62,
+              "expanded_url": "https://x.com/cqbr2375/status/2094049301257425322/photo/1",
+              "media_key": "3_2094049292633968641",
+              "start": 39,
+              "url": "https://t.co/JSt3rHaxdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094055902823465401",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094049292633968641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094049301257425322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cqbr2375: 这些药加上二十克普瑞原粉和西柚汁和酒，应该够了的 https://t.co/JSt3rHaxdI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094049292633968641"
+          ]
+        },
+        "author_id": "2006707388053860365",
+        "conversation_id": "2094049301257425322",
+        "created_at": "2026-08-30T13:07:13.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094049301257425322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSt3rHaxdI",
+              "end": 48,
+              "expanded_url": "https://x.com/cqbr2375/status/2094049301257425322/photo/1",
+              "media_key": "3_2094049292633968641",
+              "start": 25,
+              "url": "https://t.co/JSt3rHaxdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094049301257425322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094049292633968641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这些药加上二十克普瑞原粉和西柚汁和酒，应该够了的 https://t.co/JSt3rHaxdI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2094055902823465401",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2093420101592887658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 245,
+          "like_count": 15573,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T12:41:49.000Z",
+        "description": "2009，mtf，双相，出院，休学\n个性……身边的人都觉得我缺爱有不安全感导致惹人烦",
+        "id": "2006707388053860365",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094049301257425322",
+        "name": "未然ぬ🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006707388053860365/1784643433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081734249774751744/Dx5gvGuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 445,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "cqbr2375",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

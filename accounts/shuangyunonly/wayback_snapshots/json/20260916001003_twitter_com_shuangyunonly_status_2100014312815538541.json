@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2100014312815538541",
+    "created_at": "2026-09-16T00:10:03.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T01:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100014312815538541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1882705285816672256",
+          "start": 3,
+          "username": "tom779853915031"
+        },
+        {
+          "end": 46,
+          "id": "1859400296943996928",
+          "start": 33,
+          "username": "123321aaawww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100014312815538541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099736497364598899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tom779853915031: 还有人能联系上这个推油吗@123321aaawww \n他应该是在9.13吃了至少60t美金刚 92t苯海索 \n目前失联三天了 恐怕回天乏术了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2100014312815538541",
+        "created_at": "2026-09-16T00:10:03.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100014312815538541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1882705285816672256",
+              "start": 3,
+              "username": "tom779853915031"
+            },
+            {
+              "end": 46,
+              "id": "1859400296943996928",
+              "start": 33,
+              "username": "123321aaawww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100014312815538541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099736497364598899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tom779853915031: 还有人能联系上这个推油吗@123321aaawww \n他应该是在9.13吃了至少60t美金刚 92t苯海索 \n目前失联三天了 恐怕回天乏术了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882705285816672256",
+        "conversation_id": "2099736497364598899",
+        "created_at": "2026-09-15T05:46:06.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099736497364598899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1859400296943996928",
+              "start": 12,
+              "username": "123321aaawww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099736497364598899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1584,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还有人能联系上这个推油吗@123321aaawww \n他应该是在9.13吃了至少60t美金刚 92t苯海索 \n目前失联三天了 恐怕回天乏术了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2100014312815538541",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2093420101592887658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 255,
+          "like_count": 16317,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁焦虑 | 非资深oder | 友跨 | 互fo请私信 | 心理性别女 | 重度社交恐惧 | 日常 | 极端虚无主义 |  偶尔穿穿女装 | emoji精通\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian\n咱的小号@benzyl_group",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "6De_dian"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "benzyl_group"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2099878049382572232",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 542,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-21T00:56:01.000Z",
+        "description": "",
+        "id": "1859400296943996928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098292535634567410",
+        "name": "。",
+        "pinned_tweet_id": "2098060716263850359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859400296943996928/1760285566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039280977588203520/rCBzL3Nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 16,
+          "like_count": 2091,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "123321aaawww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

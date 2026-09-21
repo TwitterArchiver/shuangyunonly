@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2095533513487643025",
+    "created_at": "2026-09-03T15:24:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095533513487643025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2092788164234821632",
+          "start": 3,
+          "username": "Yuki1161_IC26"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/yuki1161_ic26",
+          "end": 129,
+          "expanded_url": "https://ngl.link/yuki1161_ic26",
+          "images": [
+            {
+              "height": 785,
+              "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "@Yuki1161_IC26: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/yuki1161_ic26",
+          "url": "https://t.co/26v2jENwSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095533513487643025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095459432368910758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161_IC26: 自介一下 岐哥六世。不欧弟不系度也不改花刀是个健全人，不得了，！会fo有趣的人。对，嗯就这样，谢谢。我，变成一个一个老实人?\n比较喜欢互動，共号中，嗯对可以通过这个链接和我玩https://t.co/26v2jENwSQ谢谢\n\n药物使用和皮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2095459359300165632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSRL2BaoAArh99.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2095459379948478465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSRNC8W4AEeEmA.jpg",
+        "width": 2560
+      },
+      {
+        "height": 592,
+        "media_key": "3_2095459402538958850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSROXGWQAIbG--.jpg",
+        "width": 608
+      },
+      {
+        "height": 3528,
+        "media_key": "3_2095459411993219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSRO6Ua0AAn9kK.jpg",
+        "width": 3528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2095533513487643025",
+        "created_at": "2026-09-03T15:24:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095533513487643025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2092788164234821632",
+              "start": 3,
+              "username": "Yuki1161_IC26"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yuki1161_ic26",
+              "end": 129,
+              "expanded_url": "https://ngl.link/yuki1161_ic26",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "@Yuki1161_IC26: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yuki1161_ic26",
+              "url": "https://t.co/26v2jENwSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095533513487643025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095459432368910758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161_IC26: 自介一下 岐哥六世。不欧弟不系度也不改花刀是个健全人，不得了，！会fo有趣的人。对，嗯就这样，谢谢。我，变成一个一个老实人?\n比较喜欢互動，共号中，嗯对可以通过这个链接和我玩https://t.co/26v2jENwSQ谢谢\n\n药物使用和皮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095459359300165632",
+            "3_2095459379948478465",
+            "3_2095459402538958850",
+            "3_2095459411993219072"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095459432368910758",
+        "created_at": "2026-09-03T10:30:35.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095459432368910758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 138,
+              "id": "1492068366731059203",
+              "start": 126,
+              "username": "Yuki3Mepcpy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yuki1161_ic26",
+              "end": 110,
+              "expanded_url": "https://ngl.link/yuki1161_ic26",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "@Yuki1161_IC26: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yuki1161_ic26",
+              "url": "https://t.co/26v2jENwSQ"
+            },
+            {
+              "display_url": "pic.x.com/PlGpxnf7uF",
+              "end": 185,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2095459432368910758/photo/1",
+              "media_key": "3_2095459359300165632",
+              "start": 162,
+              "url": "https://t.co/PlGpxnf7uF"
+            },
+            {
+              "display_url": "pic.x.com/PlGpxnf7uF",
+              "end": 185,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2095459432368910758/photo/1",
+              "media_key": "3_2095459379948478465",
+              "start": 162,
+              "url": "https://t.co/PlGpxnf7uF"
+            },
+            {
+              "display_url": "pic.x.com/PlGpxnf7uF",
+              "end": 185,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2095459432368910758/photo/1",
+              "media_key": "3_2095459402538958850",
+              "start": 162,
+              "url": "https://t.co/PlGpxnf7uF"
+            },
+            {
+              "display_url": "pic.x.com/PlGpxnf7uF",
+              "end": 185,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2095459432368910758/photo/1",
+              "media_key": "3_2095459411993219072",
+              "start": 162,
+              "url": "https://t.co/PlGpxnf7uF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095459432368910758",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095459359300165632"
+          },
+          {
+            "media_key": "3_2095459379948478465"
+          },
+          {
+            "media_key": "3_2095459402538958850"
+          },
+          {
+            "media_key": "3_2095459411993219072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "自介一下 岐哥六世。不欧弟不系度也不改花刀是个健全人，不得了，！会fo有趣的人。对，嗯就这样，谢谢。我，变成一个一个老实人?\n比较喜欢互動，共号中，嗯对可以通过这个链接和我玩https://t.co/26v2jENwSQ谢谢\n\n药物使用和皮肤艺术会发至@Yuki3Mepcpy\n感兴趣的朋友可以去观看不定期更新，嗯对，额。 https://t.co/PlGpxnf7uF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2095533513487643025",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2093420101592887658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 247,
+          "like_count": 15690,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "岐第六世\n早已逝去之人 早已宽恕之罪\n 姐姐@Cecey33\n🐱🫳🏻共號²fo喜歡的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/aC39wCmdXR"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2095461260531752963",
+        "name": "🐱🫳🏻岐⁸⁹⁶⁴ #心宿二",
+        "pinned_tweet_id": "2095459432368910758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092859810945634304/6BBETLHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 217,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/aC39wCmdXR",
+        "username": "Yuki1161_IC26",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

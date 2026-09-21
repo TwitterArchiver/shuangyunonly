@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094375463762472960"
+      ],
+      "media_source_tweet_id": [
+        "2094375469554798739"
+      ]
+    },
+    "author_id": "1690146503158108163",
+    "conversation_id": "2095359413926478066",
+    "created_at": "2026-09-03T03:53:08.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095359413926478066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085173242814451712",
+          "start": 3,
+          "username": "yuda4_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6NId3GLc3R",
+          "end": 56,
+          "expanded_url": "https://x.com/yuda4_8964/status/2094375469554798739/photo/1",
+          "media_key": "3_2094375463762472960",
+          "start": 33,
+          "url": "https://t.co/6NId3GLc3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095359413926478066",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094375463762472960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094375469554798739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuda4_8964: 三代目死了  寻回互关  求帮转 https://t.co/6NId3GLc3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2094375463762472960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC3Y0fbMAAg0rz.jpg",
+        "width": 1493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094375463762472960"
+          ],
+          "media_source_tweet_id": [
+            "2094375469554798739"
+          ]
+        },
+        "author_id": "1690146503158108163",
+        "conversation_id": "2095359413926478066",
+        "created_at": "2026-09-03T03:53:08.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095359413926478066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085173242814451712",
+              "start": 3,
+              "username": "yuda4_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NId3GLc3R",
+              "end": 56,
+              "expanded_url": "https://x.com/yuda4_8964/status/2094375469554798739/photo/1",
+              "media_key": "3_2094375463762472960",
+              "start": 33,
+              "url": "https://t.co/6NId3GLc3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095359413926478066",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094375463762472960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094375469554798739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuda4_8964: 三代目死了  寻回互关  求帮转 https://t.co/6NId3GLc3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094375463762472960"
+          ]
+        },
+        "author_id": "2085173242814451712",
+        "conversation_id": "2094375469554798739",
+        "created_at": "2026-08-31T10:43:18.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094375469554798739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NId3GLc3R",
+              "end": 40,
+              "expanded_url": "https://x.com/yuda4_8964/status/2094375469554798739/photo/1",
+              "media_key": "3_2094375463762472960",
+              "start": 17,
+              "url": "https://t.co/6NId3GLc3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094375469554798739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094375463762472960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "三代目死了  寻回互关  求帮转 https://t.co/6NId3GLc3R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2095359413926478066",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2093420101592887658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 246,
+          "like_count": 15659,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "太平洋",
+        "most_recent_tweet_id": "2095093004155658286",
+        "name": "𝖞𝖚𝖉𝖆،梦想死了🏴‍☠️四代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1785979447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 57,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

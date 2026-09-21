@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2095358080703942774",
+    "created_at": "2026-09-03T03:47:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095358080703942774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962302660541079552",
+          "start": 3,
+          "username": "by_yueeeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095358080703942774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095348092002570240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @by_yueeeer: 我觉得QQ真的是现市场上随机度最高的一款二游了，首先，里面的角色都是可以触发随机对话的，虽然有些角色只会公式化的话术，和玩烂梗，但不影响它的随机度很高，超过了烧着token的deepseek。第二就是，总有人害怕自己养成的角色在下线后会被其他角色…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2095358080703942774",
+        "created_at": "2026-09-03T03:47:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095358080703942774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962302660541079552",
+              "start": 3,
+              "username": "by_yueeeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095358080703942774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095348092002570240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @by_yueeeer: 我觉得QQ真的是现市场上随机度最高的一款二游了，首先，里面的角色都是可以触发随机对话的，虽然有些角色只会公式化的话术，和玩烂梗，但不影响它的随机度很高，超过了烧着token的deepseek。第二就是，总有人害怕自己养成的角色在下线后会被其他角色…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2095348092002570240",
+        "created_at": "2026-09-03T03:08:09.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095348092002570240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095348092002570240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得QQ真的是现市场上随机度最高的一款二游了，首先，里面的角色都是可以触发随机对话的，虽然有些角色只会公式化的话术，和玩烂梗，但不影响它的随机度很高，超过了烧着token的deepseek。第二就是，总有人害怕自己养成的角色在下线后会被其他角色牛走，而qq可以很好的做到这一点，可以删除所有自己不喜欢的角色，虽然删除角色后资源基本无法返还，但是做全是自己喜欢角色的账号还是可以轻松做到了，不用害怕自己下线了，同时，这款二游还是国内市场的老资历，已经坚持了十几年之久，不怕售后没保障。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得QQ真的是现市场上随机度最高的一款二游了，首先，里面的角色都是可以触发随机对话的，虽然有些角色只会公式化的话术，和玩烂梗，但不影响它的随机度很高，超过了烧着token的deepseek。第二就是，总有人害怕自己养成的角色在下线后会被其他角色牛走，而qq可以很好的做到这一点，可以删除所有自己"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2095358080703942774",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2093420101592887658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 246,
+          "like_count": 15652,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "GAHT：26.4.17🍥/18岁🥲/180-54/幼稚小孩🎈/或许是小天残党😭/梗图号/两个世界的公民🌠/性别不清✨/我还有我自己：@ling_qyu1314 💌/\n『坎通_江门⛅』\n——如果我在这儿，那么你在哪儿呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ling_qyu1314"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2095348092002570240",
+        "name": "🌆小白羽🌈⛅",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1787727905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093342351821504514/hFKp9Nxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 1618,
+          "like_count": 17414,
+          "listed_count": 4,
+          "media_count": 1568,
+          "tweet_count": 5360
+        },
+        "url": "",
+        "username": "by_yueeeer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

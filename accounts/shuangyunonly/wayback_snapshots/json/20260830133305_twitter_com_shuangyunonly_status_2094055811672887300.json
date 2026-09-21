@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2094055811672887300",
+    "created_at": "2026-08-30T13:33:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094055811672887300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2059475041126055936",
+          "start": 3,
+          "username": "Texiusizhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094055811672887300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094017247044084095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Texiusizhichuan: 孩子们，来经营一下推特\n图一为我画的画，喜欢的家人们可以和我互关一下呢\n图二为我的tg群（不咋用），QQ群和赞赏码，和我互关的人都可以进群一起聊天，大气的家人们也可以赞助我一点，所有的钱我会拿来用于买画画的平板\n图三为我的个人介绍及相关…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2094017241360859136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9xliDbgAA7CLq.jpg",
+        "width": 976
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2094017241369190400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9xliFaoAASeO6.jpg",
+        "width": 1682
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2094017241377550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9xliHaMAAAxmu.jpg",
+        "width": 833
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2094055811672887300",
+        "created_at": "2026-08-30T13:33:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094055811672887300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2059475041126055936",
+              "start": 3,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094055811672887300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094017247044084095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Texiusizhichuan: 孩子们，来经营一下推特\n图一为我画的画，喜欢的家人们可以和我互关一下呢\n图二为我的tg群（不咋用），QQ群和赞赏码，和我互关的人都可以进群一起聊天，大气的家人们也可以赞助我一点，所有的钱我会拿来用于买画画的平板\n图三为我的个人介绍及相关…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094017241360859136",
+            "3_2094017241369190400",
+            "3_2094017241377550336"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2094017247044084095",
+        "created_at": "2026-08-30T10:59:51.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094017247044084095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTokRrVZz2",
+              "end": 157,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2094017247044084095/photo/1",
+              "media_key": "3_2094017241360859136",
+              "start": 134,
+              "url": "https://t.co/mTokRrVZz2"
+            },
+            {
+              "display_url": "pic.x.com/mTokRrVZz2",
+              "end": 157,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2094017247044084095/photo/1",
+              "media_key": "3_2094017241369190400",
+              "start": 134,
+              "url": "https://t.co/mTokRrVZz2"
+            },
+            {
+              "display_url": "pic.x.com/mTokRrVZz2",
+              "end": 157,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2094017247044084095/photo/1",
+              "media_key": "3_2094017241377550336",
+              "start": 134,
+              "url": "https://t.co/mTokRrVZz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094017247044084095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094017241360859136"
+          },
+          {
+            "media_key": "3_2094017241369190400"
+          },
+          {
+            "media_key": "3_2094017241377550336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，来经营一下推特\n图一为我画的画，喜欢的家人们可以和我互关一下呢\n图二为我的tg群（不咋用），QQ群和赞赏码，和我互关的人都可以进群一起聊天，大气的家人们也可以赞助我一点，所有的钱我会拿来用于买画画的平板\n图三为我的个人介绍及相关想法，有时间的家人们可以来看看 https://t.co/mTokRrVZz2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2094055811672887300",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2093420101592887658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086824470103339009/gqycb540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 245,
+          "like_count": 15573,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2094017247044084095",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 415,
+          "like_count": 24134,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1395
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
