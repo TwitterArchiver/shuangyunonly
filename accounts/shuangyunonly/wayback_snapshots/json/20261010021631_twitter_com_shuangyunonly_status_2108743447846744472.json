@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2108698974689677626",
+    "created_at": "2026-10-10T02:16:31.000Z",
+    "display_text_range": [
+      12,
+      159
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T03:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108743447846744472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108743447846744472",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "双允第一次知道药物滥用的概念是在至少三年前，来源忘了，平台似乎是b站，就是一个人直播od怎么怎么样的。ta劝别人不要od，也说自己想要通过od变得正常。时间隔得太远，当时怎么想的也忘记了，应该是蛮窒息的。xx禁毒的视频好像只能加强od≈吸毒的概念就是了。允确信不乏有为极乐而o，也有因痛苦而o。说这些也不是去美化什么，但我什么也做不了，只能希望社会的问题早日解决，或者尽早毁灭。\n\n胡言乱语ing"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108698974689677626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 双允第一次知道药物滥用的概念是在至少三年前，来源忘了，平台似乎是b站，就是一个人直播od怎么怎么样的。ta劝别人不要od，也说自己想要通过od变得正常。时间隔得太远，当时怎么想的也忘记了，应该是蛮窒息的。xx禁毒的视频好像只能加强od≈吸毒的概念就是了。允确信不乏有为极乐而o，也有因痛苦而o。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2108698974689677626",
+        "created_at": "2026-10-10T02:16:31.000Z",
+        "display_text_range": [
+          12,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T03:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108743447846744472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108743447846744472",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "双允第一次知道药物滥用的概念是在至少三年前，来源忘了，平台似乎是b站，就是一个人直播od怎么怎么样的。ta劝别人不要od，也说自己想要通过od变得正常。时间隔得太远，当时怎么想的也忘记了，应该是蛮窒息的。xx禁毒的视频好像只能加强od≈吸毒的概念就是了。允确信不乏有为极乐而o，也有因痛苦而o。说这些也不是去美化什么，但我什么也做不了，只能希望社会的问题早日解决，或者尽早毁灭。\n\n胡言乱语ing"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108698974689677626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 双允第一次知道药物滥用的概念是在至少三年前，来源忘了，平台似乎是b站，就是一个人直播od怎么怎么样的。ta劝别人不要od，也说自己想要通过od变得正常。时间隔得太远，当时怎么想的也忘记了，应该是蛮窒息的。xx禁毒的视频好像只能加强od≈吸毒的概念就是了。允确信不乏有为极乐而o，也有因痛苦而o。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2108698974689677626",
+        "created_at": "2026-10-09T23:19:47.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T00:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108698974689677626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108698974689677626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我其实很讨厌XX禁毒那种把滥用者污名化夸张化的宣传，这种东西起不到威慑，只会让健全人觉得好笑，而代价就是让物质依赖障碍患者进一步被排斥、抵触。做这种视频的人并没有健全与疾病应当平等的观念"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "description": "Falling",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "不断远去",
+        "most_recent_tweet_id": "2108743447846744472",
+        "name": "双允喵☄️",
+        "pinned_tweet_id": "2104247136003203532",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100363968003084288/rWs_isY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 259,
+          "like_count": 17278,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "惶惶人心，千面无相\n这里是教主sama，间宫皆守人间体\n我已经遇到了自己的水上由岐 @yuu00u00\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "yuu00u00"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2108700059491799315",
+        "name": "Mis_Siah☤",
+        "pinned_tweet_id": "2103846767154618497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787691792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099475100668174338/N87dkzVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 264,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

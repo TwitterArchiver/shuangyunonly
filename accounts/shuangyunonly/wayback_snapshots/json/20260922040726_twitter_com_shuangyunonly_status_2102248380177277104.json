@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1690146503158108163",
+    "conversation_id": "2102248380177277104",
+    "created_at": "2026-09-22T04:07:26.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102248380177277104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102248380177277104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102075611032564216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 如果某些人是抱着“我们要尽快解决当事人的痛苦”为理由，而去鼓励当事人自杀。\n\n那么在鼓励当事人自杀之前，这些人至少应该“为了解决当事人的痛苦而去倾力倾财的帮助过当事人去解决痛苦”\n\n无论是家暴，治病，学业，这些都是可以用钱解决的。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690146503158108163",
+        "conversation_id": "2102248380177277104",
+        "created_at": "2026-09-22T04:07:26.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102248380177277104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102248380177277104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102075611032564216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 如果某些人是抱着“我们要尽快解决当事人的痛苦”为理由，而去鼓励当事人自杀。\n\n那么在鼓励当事人自杀之前，这些人至少应该“为了解决当事人的痛苦而去倾力倾财的帮助过当事人去解决痛苦”\n\n无论是家暴，治病，学业，这些都是可以用钱解决的。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2102075611032564216",
+        "created_at": "2026-09-21T16:40:55.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102075611032564216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1656456180913537026",
+              "start": 116,
+              "url": "https://t.co/GtS4zLdJlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102075611032564216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果某些人是抱着“我们要尽快解决当事人的痛苦”为理由，而去鼓励当事人自杀。\n\n那么在鼓励当事人自杀之前，这些人至少应该“为了解决当事人的痛苦而去倾力倾财的帮助过当事人去解决痛苦”\n\n无论是家暴，治病，学业，这些都是可以用钱解决的。\n\n一分钱也不愿意去掏，还要鼓励当事人自杀，还要在自杀干预的志愿者工作的时候说风凉话。\n\n那说直白一些，这些人根本不是真的在意当事人的痛苦，他们只是喜欢打着这种光鲜亮丽的旗号，满足自己看别人自杀的肮脏欲望。他们就是那些迫害人自杀的校园霸凌的施暴者旁边摇旗助喊的看热闹不嫌事大的旁观者。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1927,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656456180913537026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果某些人是抱着“我们要尽快解决当事人的痛苦”为理由，而去鼓励当事人自杀。\n\n那么在鼓励当事人自杀之前，这些人至少应该“为了解决当事人的痛苦而去倾力倾财的帮助过当事人去解决痛苦”\n\n无论是家暴，治病，学业，这些都是可以用钱解决的。 https://t.co/GtS4zLdJlE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-11T23:41:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PH",
+              "full_name": "Kalibo (Provincial Capitol Site), Western Visayas, Philippines",
+              "geo": {
+                "coordinates": [
+                  122.36667,
+                  11.68333
+                ],
+                "type": "Point"
+              },
+              "locality": "Kalibo (Provincial Capitol Site)",
+              "region": "Western Visayas",
+              "sub_region": "Province of Aklan"
+            }
+          ]
+        },
+        "description": "Alien swarm :reactive drop常驻玩家，只会一点锯子qwqwqwqwqwq/最爱@QvQxiaoxiao /持续学习中.../白昼终将到来/尝试保持友善/多么希望你能存在@nianbaionly\n/车万/v家/发现你了/fo人看一串随机数",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "QvQxiaoxiao"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "nianbaionly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangyunmiaom…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuangyunmiaomiao",
+                "start": 0,
+                "url": "https://t.co/F72A5J9YDQ"
+              }
+            ]
+          }
+        },
+        "id": "1690146503158108163",
+        "is_identity_verified": false,
+        "location": "site-■■",
+        "most_recent_tweet_id": "2102248380177277104",
+        "name": "双允喵☄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690146503158108163/1780428763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100363968003084288/rWs_isY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 257,
+          "like_count": 16610,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/F72A5J9YDQ",
+        "username": "shuangyunonly",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2102075611032564216",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42754,
+          "following_count": 4169,
+          "like_count": 2328,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3161
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
